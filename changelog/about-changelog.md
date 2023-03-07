@@ -4,7 +4,7 @@ title: About
 taxonomy:
     category:
         - changelog
-      post-tag:
+      post_tag:
       changelog
 
 ---
