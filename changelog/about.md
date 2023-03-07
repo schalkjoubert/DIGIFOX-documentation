@@ -1,6 +1,7 @@
 ---
 title: About
 category: changelog
+tag: changelog
 ---
 2023-03-07
 Integrate Changelog with GitHub
