@@ -1,6 +1,6 @@
 ---
-Title: About
+title: About
 ---
-this is About 
-this alsdo happened
-and now?
+2023-03-07
+- Integrate Changelog with GitHub
+- Update page title
