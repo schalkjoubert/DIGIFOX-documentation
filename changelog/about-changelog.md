@@ -1,11 +1,10 @@
 ---
-
 title: About
 taxonomy:
     category:
         - changelog
       post_tag:
-      changelog
+      - changelog
 
 ---
 
