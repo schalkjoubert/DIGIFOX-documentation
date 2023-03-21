@@ -1,7 +1,8 @@
 ---
 title: About Changelog
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
+    post_tag: tag1
 ---
 
 = 2.0 | 2023-03-01 =
