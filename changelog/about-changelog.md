@@ -1,7 +1,5 @@
 ---
 title: About Changelog
-category: changelog
-post_tag: changelog
 taxonomy:
     doc_category: wordpress-plugins
 ---
