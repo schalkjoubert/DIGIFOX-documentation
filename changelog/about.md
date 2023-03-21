@@ -5,7 +5,7 @@ post_tag: changelog
 ---
 2023-03-07
 Integrate Changelog with GitHub
-Update page title
+Update page title.
 
 v1.2.2. 
 Fixed compatibilty error of 1.2.1 update if ACF is < 5.7.0  
