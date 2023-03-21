@@ -1,5 +1,5 @@
 ---
-title: About Changelog
+title: About | Changelog
 taxonomy:
     category: changelog
     post_tag: changelog
