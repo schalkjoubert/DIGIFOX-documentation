@@ -9,4 +9,4 @@ post_excerpt: Awesome changes to the About Module, see complete chnagelog <a hre
 2.0 | 2023-03-01
 * First major rebuild
 * Remove built-in demo
-* Convert slug...
+* Convert slug.
