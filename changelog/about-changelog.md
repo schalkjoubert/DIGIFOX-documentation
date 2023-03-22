@@ -12,3 +12,7 @@ taxonomy:
 * Remove built-in demo
 * Updated column selction interface
 * Convert slug.
+
+
+2.1 | 2023-03-22
+* Fix: Remove hardcoded heading for testing
