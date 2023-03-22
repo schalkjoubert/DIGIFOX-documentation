@@ -11,4 +11,4 @@ taxonomy:
 * First major rebuild
 * Remove built-in demo
 * Updated column selction interface
-* Convert slug.
+* Convert slug..
