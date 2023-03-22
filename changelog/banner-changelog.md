@@ -1,6 +1,6 @@
 ---
 title: Banner - Changelog
-post_excerpt: New Module with call to action and parallax background
+post_excerpt: New Module with call to action and optional parallax background.
 taxonomy:
     category: changelog
     post_tag: changelog
@@ -15,4 +15,4 @@ taxonomy:
 * Add opacity to color overlay
 
 1.0 | 2023-03-04
-* First Public Release
+* First Public Release....
