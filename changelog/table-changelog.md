@@ -1,5 +1,6 @@
 ---
 title: Table - Changelog
+post_status: draft
 post_excerpt: New major release. We removed the built-in demo feature in favour of speed and stability en user experience. Addressed minor bug fixes and enhanced the UI for the column selection
 taxonomy:
     category: changelog
