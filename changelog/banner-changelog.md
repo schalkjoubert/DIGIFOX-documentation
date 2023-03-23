@@ -1,5 +1,6 @@
 ---
 title: Banner - Changelog
+post_status: publish
 post_excerpt: New Module with call to action and optional parallax background.
 taxonomy:
     category: changelog
@@ -18,4 +19,4 @@ taxonomy:
 * First Public Release
 
 1.1 | 2023-03-22
-* Fix: Hide button container when now url selected
+* Fix: Hide button container when now url selected.
