@@ -20,3 +20,6 @@ taxonomy:
 
 1.1 | 2023-03-22
 * Fix: Hide button container when now url selected.
+
+1.2 | 2023-03-28
+* Fix overlay default color value. Set to null if no color is selected.
