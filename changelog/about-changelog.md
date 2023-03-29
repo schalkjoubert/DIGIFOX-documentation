@@ -1,7 +1,7 @@
 ---
 title: About - Changelog
 post_status: publish
-post_excerpt: New major release. We removed the built-in demo feature in favour of speed and stability en user experience. Addressed minor bug fixes and enhanced the UI for the column selection
+post_excerpt: Added the option to center align content.
 taxonomy:
     category: changelog
     post_tag: changelog
@@ -17,3 +17,12 @@ taxonomy:
 
 2.1 | 2023-03-22
 * Fix: Remove hardcoded heading for testing.
+
+
+2.2 | 2023-03-23
+* Fix: Increase space bewteen columns
+
+
+2.3 | 2023-03-28
+* Fix: Create universal containers for head, heart and feet.
+* New: Option to center align content
