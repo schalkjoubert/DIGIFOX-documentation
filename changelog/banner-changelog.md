@@ -26,3 +26,6 @@ taxonomy:
 
 1.3 | 2023-03-30
 * Feature: Add options to scroll to module
+
+1.4 | 2023-03-30
+* Fix: Call to action retrieving ACF subfield
