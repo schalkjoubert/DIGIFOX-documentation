@@ -26,4 +26,7 @@ taxonomy:
 * Fix: Smooth scroll
 
 2.3.1 | 2023-03-30
-* FIX: Navigation bug"
+* FIX: Navigation bug
+
+2.3.2 | 2023-03-30
+* FIX: Navigation bug
