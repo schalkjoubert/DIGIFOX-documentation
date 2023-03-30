@@ -22,3 +22,6 @@ taxonomy:
 
 2.3 | 2023-03-29
 * Feature: Add option to scroll to contact module
+
+2.3.1 | 2023-03-30
+* Fix: Typo on custom field for grid gap
