@@ -16,3 +16,6 @@ taxonomy:
 
 2.1 | 2023-03-22
 * Fix: Remove hardcoded heading for testing.
+
+2.2 | 2023-03-22
+* Codespace: Update master to main branch
