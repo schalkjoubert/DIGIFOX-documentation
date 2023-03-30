@@ -23,3 +23,6 @@ taxonomy:
 
 1.2 | 2023-03-28
 * Fix overlay default color value. Set to null if no color is selected.
+
+1.3 | 2023-03-30
+* Feature: Add options to scroll to module
