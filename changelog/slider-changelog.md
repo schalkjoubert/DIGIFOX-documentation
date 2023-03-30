@@ -16,3 +16,19 @@ taxonomy:
 
 2.1 | 2023-03-22
 * Fix: Remove hardcoded heading for testing.
+
+2.2 | 2023-03-23
+* Fix: Update Height Control
+
+2.3 | 2023-03-25
+* Fix: Update Callt oaction colour values
+
+2.4 | 2023-03-26
+* Fix: Minto bug fix
+
+2.5 | 2023-03-27
+* Fix: Minto bug fix
+
+2.6 | 2023-03-30
+* Feature: Add scroll option to contact module
+* Fix: Smooth scroll
