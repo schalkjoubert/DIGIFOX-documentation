@@ -24,3 +24,6 @@ taxonomy:
 2.3 | 2023-03-30
 * Feature: Add scroll option to contact module
 * Fix: Smooth scroll
+
+2.3.1 | 2023-03-30
+* FIX: Navigation bug"
