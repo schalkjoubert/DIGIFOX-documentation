@@ -16,3 +16,11 @@ taxonomy:
 
 2.1 | 2023-03-22
 * Fix: Remove hardcoded heading for testing
+
+2.2 | 2023-03-22
+* Codespace: Update master to main branch
+* Fix: Minor Bufg Fix
+
+2.3 | 2023-03-30
+* Feature: Add scroll option to contact module
+* Fix: Smooth scroll
