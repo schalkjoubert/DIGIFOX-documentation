@@ -25,3 +25,10 @@ taxonomy:
 
 2.3.1 | 2023-03-30
 * Fix: Typo on custom field for grid gap
+
+2.3.2 | 2023-03-30
+* Fix: Minor Bufg Fix
+
+2.3.3 | 2023-03-30
+* Feature: Add scroll option to contact module
+* Fix: Smooth scroll
