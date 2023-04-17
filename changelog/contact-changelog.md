@@ -12,3 +12,6 @@ taxonomy:
 * Remove built-in demo
 * Updated column selction interface
 * Convert slug.
+
+2.1 | 2023-04-14
+* New: Create "under construction" setup option..
