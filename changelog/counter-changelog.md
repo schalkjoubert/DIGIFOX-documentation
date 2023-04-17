@@ -13,6 +13,8 @@ taxonomy:
 * Updated column selction interface
 * Convert slug.
 
+2.1 | 2023-03-14
+* Fix: Create universal containers for head, heart and feet
 
-2.1 | 2023-03-22
-* Fix: Remove hardcoded heading for testing
+2.2 | 2023-04-14
+* New: Create "under construction" setup option..
