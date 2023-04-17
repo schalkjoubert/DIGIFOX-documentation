@@ -29,3 +29,9 @@ taxonomy:
 
 1.4 | 2023-03-30
 * Fix: Call to action retrieving ACF subfield
+
+1.5 | 2023-04-04
+* Fix: Create universal containers for head, heart and feet.
+
+1.6 | 2023-04-14
+* New: Create "under construction" setup option..
