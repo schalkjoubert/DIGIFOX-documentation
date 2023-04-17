@@ -26,3 +26,6 @@ taxonomy:
 2.3 | 2023-03-28
 * Fix: Create universal containers for head, heart and feet.
 * New: Option to center align content
+
+2.4 | 2023-04-14
+* New: Create "under construction" setup option..
