@@ -16,3 +16,9 @@ taxonomy:
 
 2.1 | 2023-03-22
 * Fix: Remove hardcoded heading for testing.
+
+2.2 | 2023-03-22
+* Codespace: Update master to main branch
+
+2.3 | 2023-04-14
+* New: Create "under construction" setup option..
