@@ -32,3 +32,6 @@ taxonomy:
 2.3.3 | 2023-03-30
 * Feature: Add scroll option to contact module
 * Fix: Smooth scroll
+
+2.4 | 2023-04-14
+* New: Create "under construction" setup option..
