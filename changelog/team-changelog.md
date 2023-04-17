@@ -19,3 +19,6 @@ taxonomy:
 
 2.2 | 2023-03-22
 * Codespace: Update master to main branch
+
+2.3 | 2023-04-14
+* New: Create "under construction" setup option..
