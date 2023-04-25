@@ -28,4 +28,7 @@ taxonomy:
 * New: Option to center align content
 
 2.4 | 2023-04-14
-* New: Create "under construction" setup option..
+* New: Create "under construction" setup option.
+
+2.4.1 | 2023-04-26
+* New: Add endnote text field
