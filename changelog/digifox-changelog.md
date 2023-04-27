@@ -22,3 +22,6 @@ taxonomy:
 
 2.3 | 2023-04-14
 * New: Create "under construction" setup option.
+
+2.3.1 | 2023-04-27
+* Fix: Slow loading of header. Move wp_head above nav.
