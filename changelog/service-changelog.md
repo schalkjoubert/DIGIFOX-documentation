@@ -34,4 +34,7 @@ taxonomy:
 * Fix: Smooth scroll
 
 2.4 | 2023-04-14
-* New: Create "under construction" setup option..
+* New: Create "under construction" setup option.
+
+2.4.1 | 2023-04-27
+* New: Add Subtitle field for individual sevices
