@@ -1,7 +1,7 @@
 ---
 title: Digifox - Changelog
 post_status: publish
-post_excerpt: New major release. We removed the built-in demo feature in favour of speed and stability en user experience. Addressed minor bug fixes and enhanced the UI for the column selection
+post_excerpt: Update description of changelog feed in dashboard.
 taxonomy:
     category: changelog
     post_tag: theme-changelog
@@ -28,3 +28,6 @@ taxonomy:
 
 2.3.1.3 | 2023-04-27
 * New: Add Subtitle field for individual sevices
+
+2.3.2 | 2023-07-09
+* Fix: Update description of changelog feed in dashboard
