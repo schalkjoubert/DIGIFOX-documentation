@@ -1,6 +1,6 @@
 ---
 title: Slider - Changelog
-post_excerpt: New major release. We removed the built-in demo feature in favour of speed and stability en user experience. Addressed minor bug fixes and enhanced the UI for the column selection
+post_excerpt: We added a new fwature. You can now add an small logo / icon above the title as an overlay.
 taxonomy:
     category: changelog
     post_tag: changelog
@@ -33,4 +33,7 @@ taxonomy:
 * Fix: Smooth scroll
 
 2.3 | 2023-04-14
-* New: Create "under construction" setup option..
+* New: Create "under construction" setup option.
+
+2.4 | 2023-07-14
+* New: We added a new fwature. You can now add an small logo / icon above the title as an overlay.
