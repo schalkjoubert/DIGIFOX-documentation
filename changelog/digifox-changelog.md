@@ -30,4 +30,7 @@ taxonomy:
 * New: Add Subtitle field for individual sevices
 
 2.3.2 | 2023-07-09
-* Fix: Update description of changelog feed in dashboard
+* Update: Update description of changelog feed in dashboard
+
+2.3.3 | 2023-07-14
+* Update: Update to sync new custom field creatwed for the slider module.
