@@ -20,4 +20,7 @@ taxonomy:
 * Codespace: Update master to main branch
 
 2.3 | 2023-04-14
-* New: Create "under construction" setup option..
+* New: Create "under construction" setup option.
+
+2.4 | 2023-07-31
+* Update: Added JS & PHGP to handle screen size detection. Used in  particular for the responsive display of gallery thumbnails.
