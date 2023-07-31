@@ -34,3 +34,6 @@ taxonomy:
 
 2.3.3 | 2023-07-14
 * Update: Update to sync new custom field creatwed for the slider module.
+
+2.3.4 | 2023-07-31
+* Update: Added JS & PHGP to handle screen size detection. Used in  particular for the responsive display of gallery thumbnails.
