@@ -18,3 +18,9 @@ taxonomy:
 
 0.1.6.0 | 2023-07-29
 * Fix Modal not opening on mobile
+
+0.1.6.1 | 2023-07-31
+* Fix Prev & Next buttons alignment
+
+0.1.6.2 | 2023-07-31
+* Fix Further changes to Prev & Next buttons alignment
