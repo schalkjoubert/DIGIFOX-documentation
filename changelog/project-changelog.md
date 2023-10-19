@@ -13,3 +13,5 @@ taxonomy:
 
 0.2 | 2023-10-13
 * Fix broken the scroll when menu value is more than one word, thus includes a space
+
+0.3 | Initialise Git, repo pished to private GitHub
