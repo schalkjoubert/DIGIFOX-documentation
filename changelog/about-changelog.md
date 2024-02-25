@@ -3,7 +3,7 @@ title: About - Changelog
 post_status: publish
 post_excerpt: Added the option to center align content.
 taxonomy:
-    category: changelog, about
+    category: changelog about
     post_tag: changelog
 
 ---
