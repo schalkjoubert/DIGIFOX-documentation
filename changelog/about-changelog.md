@@ -5,8 +5,7 @@ post_excerpt: Added the option to center align content.
 taxonomy:
     category: 
         - changelog
-        - about
-    post_tag: changelog
+    post_tag: about
 
 ---
 ### Version 2.12 | Released on 2024-02-25
