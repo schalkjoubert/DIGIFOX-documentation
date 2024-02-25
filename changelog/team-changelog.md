@@ -21,4 +21,20 @@ taxonomy:
 * Codespace: Update master to main branch
 
 2.3 | 2023-04-14
-* New: Create "under construction" setup option..
+* New: Create "under construction" setup option.
+
+2.3 | 2023-09-06
+* New: Add Email & Website link options.
+
+2.4 | 2023-10-19
+* Fix broken the scroll when menu value is more than one word, thus includes a space. 
+
+2.5 | 2023-10-22
+* New: Add Phone number option for each team member
+
+2.6 | 2024-01-15
+* Fix: Slider Delay validation
+
+2.6.1 | 2024-02-25
+* Feature | Update GH Access token for writing and syncing changelog
+
