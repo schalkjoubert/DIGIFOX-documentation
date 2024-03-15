@@ -32,3 +32,6 @@ taxonomy:
 
 2.7 | 2024-03-15
 * Fix Padding & Margin value when range slider set to zero
+
+2.7.1 | 2024-03-15
+* Fix Padding & Margin value when range slider set to zero
