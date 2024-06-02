@@ -8,16 +8,19 @@ taxonomy:
 ---
 
 0.1 | 2023-10-01
-* First Beate Release.
-
+* First Beta Release
 
 0.2 | 2023-10-13
-* Fix broken the scroll when menu value is more than one word, thus includes a space
+* Fix broken the scroll when menu value is more than one word, thus includes a space. 
 
-0.3 | Initialise Git, repo pished to private GitHub
+0.3 | 2023-10-15
+* Fix | Initialise Git, repo pushed to private GitHub
 
 0.4 | 2023-10-20
-* Fix scroll issue when nave item conatains a space
+* Fix scroll issue when nav item contains a space
 
 0.5 | 2024-02-07
 * Feature | Add custom style section
+
+0.6 | 2024-06-02
+* Fix | Remove anchor from fearured image
