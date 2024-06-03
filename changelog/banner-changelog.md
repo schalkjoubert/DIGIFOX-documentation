@@ -34,4 +34,16 @@ taxonomy:
 * Fix: Create universal containers for head, heart and feet.
 
 1.6 | 2023-04-14
-* New: Create "under construction" setup option..
+* New: Create "under construction" setup option.
+
+1.7 | 2023-07-31
+* New: Upadte Access Token
+
+1.8 | 2023-10-19
+* Fix broken the scroll when menu value is more than one word, thus includes a space.
+
+1.9 | 2023-10-20
+* Fix same issue but related to the optional CTA
+
+1.10 | 2024-06-03
+* Feature | Add Scroll Option to Any Module
