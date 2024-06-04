@@ -96,3 +96,6 @@ taxonomy:
 
 2.3.6.7.2 | 2024-06-04
 * Update | Add cutom module scroll option to slider and video
+
+2.3.6.7.3 | 2024-06-04
+* Fix | Add cutom module scroll option to slider and video
