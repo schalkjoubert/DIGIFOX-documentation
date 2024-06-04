@@ -24,3 +24,6 @@ taxonomy:
 
 0.6 | 2024-06-02
 * Fix | Remove anchor from fearured image
+
+0.7 | 2024-06-04
+* Fix | Add Project Overview
