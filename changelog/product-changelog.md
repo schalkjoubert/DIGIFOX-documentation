@@ -1,6 +1,6 @@
 ---
 title: Product - Changelog
-post_excerpt: New major release. We removed the built-in demo feature in favour of speed and stability en user experience. Addressed minor bug fixes and enhanced the UI for the column selection
+post_excerpt: Add new option to allow upload/download PDF for each product.
 taxonomy:
     category: changelog
     post_tag: changelog
@@ -32,4 +32,19 @@ taxonomy:
 * FIX: Navigation bug
 
 2.4 | 2023-04-14
-* New: Create "under construction" setup option..
+* New: Create "under construction" setup option.
+
+2.5 | 2023-09-07
+* New: Add new option to allow upload/download PDF
+
+2.6 | 2023-10-19
+* Fix broken the scroll when menu value is more than one word, thus includes a space.
+
+2.7 | 2023-10-20
+* Fix same issue but related to the optional CTA
+
+2.8 | 2024-02-07
+* Feature | Add custom style section
+
+2.9 | 2024-06-04
+* Feature | Add price field
