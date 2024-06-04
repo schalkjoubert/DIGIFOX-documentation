@@ -27,3 +27,6 @@ taxonomy:
 
 0.7 | 2024-06-04
 * Fix | Add Project Overview
+
+0.8 | 2024-06-04
+* Fix | Issue with layout
