@@ -89,4 +89,4 @@ taxonomy:
 * Update | ACF pricing field in Products
 
 2.3.6.6 | 2024-06-04
-* Update | ACF subtitle field in Products
+* Update | ACF subtitle field in Products 
