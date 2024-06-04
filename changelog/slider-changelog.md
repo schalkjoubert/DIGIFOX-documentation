@@ -53,3 +53,6 @@ taxonomy:
 
 2.4.7 | 2024-01-15
 * Fix: Move Delay header feature to global settings
+
+2.4.9 | 2024-06-04
+* Fix: Add Scroll to custom module option
