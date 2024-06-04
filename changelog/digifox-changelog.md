@@ -93,3 +93,6 @@ taxonomy:
 
 2.3.6.7.1 | 2024-06-04
 * Update | ACF subtitle field in Propjects Overview
+
+2.3.6.7.2 | 2024-06-04
+* Update | Add cutom module scroll option to slider and video
