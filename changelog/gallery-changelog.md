@@ -23,4 +23,16 @@ taxonomy:
 * New: Create "under construction" setup option.
 
 2.4 | 2023-07-31
-* Update: Added JS & PHGP to handle screen size detection. Used in  particular for the responsive display of gallery thumbnails.
+* Update: Added JS & PHP to handle screen size detection. Used in  particular for the responsive display of gallery thumbnails.
+
+2.4.1 | 2023-07-31
+* Update github repository access token.
+
+2.4.2 | 2023-09-21
+* Fix conditional image field. Called sub-field instad of parent. 
+
+2.4.3 | 2023-10-19
+* Fix broken the scroll when menu value is more than one word, thus includes a space. 
+
+2.4.4 | 2024-06-12
+* Fix the screenszie detection to determin images / row with javascript cookie
