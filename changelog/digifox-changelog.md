@@ -99,3 +99,7 @@ taxonomy:
 
 2.3.6.7.3 | 2024-06-04
 * Fix | Add cutom module scroll option to slider and video
+
+
+2.3.6.8 | 2025-04-16
+* Fix | Add new Hero module
