@@ -102,4 +102,7 @@ taxonomy:
 
 
 2.3.6.8 | 2025-04-16
-* Fix | Add new Hero module
+* Feature | Add new Hero module
+
+2.3.6.9 | 2025-07-29
+* Feature | Add File Download to Hero Module
