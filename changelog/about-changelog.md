@@ -8,6 +8,11 @@ taxonomy:
     post_tag: about
 
 ---
+### Version 3.0 | Released on 2026-01-28
+**Maintenance Release:** Cleaned up legacy code and improved output handling.
+- Streamlined public assets and dynamic styles.
+- Updated navigation and template output sanitisation.
+
 ### Version 2.12 | Released on 2024-02-25
 **Enhanced Feature:** We've upgraded our GitHub Access Token to improve the reliability and efficiency of writing and syncing the changelog.
 - This means you'll experience smoother updates and synchronisation with our repository.
