@@ -7,6 +7,12 @@ taxonomy:
 
 ---
 
+3.0 | 2026-01-28
+* Replace Slick slider with Digifox slider
+* Added dots/arrows pagination options
+* Added cache-busting versions for public CSS
+* Cleaned unused assets and old debug code
+
 2.0 | 2023-03-01
 * First major rebuild
 * Remove built-in demo
@@ -23,7 +29,7 @@ taxonomy:
 2.3 | 2023-04-14
 * New: Create "under construction" setup option.
 
-2.3 | 2023-09-06
+2.3.1 | 2023-09-06
 * New: Add Email & Website link options.
 
 2.4 | 2023-10-19
