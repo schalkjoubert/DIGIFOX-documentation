@@ -7,6 +7,12 @@ taxonomy:
 
 ---
 
+3.0 | 2026-01-28
+* Gallery images now use IDs (ACF gallery return format)
+* Remove cookie-based screen size detection
+* Move lightbox navigation logic to JS file (no jQuery)
+* Clean unused legacy partials and bump version
+
 2.0 | 2023-03-01
 * First major rebuild
 * Remove built-in demo
