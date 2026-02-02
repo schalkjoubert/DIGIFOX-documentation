@@ -7,6 +7,11 @@ taxonomy:
 
 ---
 
+3.0 | 2026-01-28
+* Cleanup: Removed legacy comments and unused assets.
+* Update: Added TikTok social link support.
+* Improvement: Sanitised output and refreshed dynamic styles.
+
 2.0 | 2023-03-01
 * First major rebuild
 * Remove built-in demo
