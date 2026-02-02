@@ -7,6 +7,12 @@ taxonomy:
 
 ---
 
+3.0 | 2026-01-28
+* Replace Slick slider with Digifox slider
+* Added dots/arrows pagination options
+* Added cache-busting versions for public CSS
+* Cleaned unused assets and legacy files
+
 2.0 | 2023-03-01
 * First major rebuild
 * Remove built-in demo
