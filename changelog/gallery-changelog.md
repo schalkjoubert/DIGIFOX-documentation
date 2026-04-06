@@ -7,6 +7,10 @@ taxonomy:
 
 ---
 
+3.0.1 | 2026-04-06
+* Align gallery module layout with standard head/heart structure
+* Add module-active to gallery container when active
+
 3.0 | 2026-01-28
 * Gallery images now use IDs (ACF gallery return format)
 * Remove cookie-based screen size detection
