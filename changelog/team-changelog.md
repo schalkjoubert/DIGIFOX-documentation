@@ -7,6 +7,12 @@ taxonomy:
 
 ---
 
+3.0.2 | 2026-04-06
+* Center grid team inner content when padding is applied
+
+3.0.1 | 2026-01-28
+* Update: Social SVG icons now load from the active theme first (`assets/svg-fa/plain-social`). Use the digifox theme so all icon assets stay in the theme.
+
 3.0 | 2026-01-28
 * Replace Slick slider with Digifox slider
 * Added dots/arrows pagination options
