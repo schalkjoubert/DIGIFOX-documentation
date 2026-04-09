@@ -28,5 +28,9 @@ taxonomy:
 0.7 | 2024-06-04
 * Fix | Add Project Overview
 
+3.0.0 | 2026-04-06
+* Fork Project module from Projects base (ACF fields renamed to project_*)
+* Align Project module settings and output with Project base
+
 0.8 | 2024-06-04
 * Fix | Issue with layout
