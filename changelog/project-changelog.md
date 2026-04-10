@@ -28,6 +28,11 @@ taxonomy:
 0.7 | 2024-06-04
 * Fix | Add Project Overview
 
+3.0.1 | 2026-04-06
+* Add modal link type with text + gallery support
+* Lock page scroll while project modal is open
+* Show image captions in project modal gallery
+
 3.0.0 | 2026-04-06
 * Fork Project module from Projects base (ACF fields renamed to project_*)
 * Align Project module settings and output with Project base
