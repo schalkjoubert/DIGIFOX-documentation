@@ -8,7 +8,7 @@ taxonomy:
 
 ---
 
-3.0.0-beta.1 | 2026-04-13
+3.0.4-beta.1 | 2026-04-13
 * Chore | Reorder changelog entries so newest versions appear first
 * Chore | Start 3.0 beta version line
 
