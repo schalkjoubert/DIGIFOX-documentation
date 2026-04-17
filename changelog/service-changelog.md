@@ -54,3 +54,12 @@ taxonomy:
 * Changelog: version order fixed; typo fixes (selction → selection, Bufg → bug, sevices → services)
 * GH_UPDATE_TOKEN: only set authentication when constant is defined (align with Cinema)
 * Version 3.0 set in plugin header and constant
+
+3.0.1 | 2026-01-28
+* New: Default content when no services are added: two placeholder services with title and subtitle (Consulting / Support) so the module displays something until content is added in WordPress admin
+
+3.0.2 | 2026-01-28
+* Reverted: Remove default/fallback service content; module shows nothing when service_content is empty (use Demo Importer or add content in WP admin)
+
+3.0.3 | 2026-04-04
+* Fix: When service_setting_text_align is center, icon and image artwork align to the center as well (style-dynamic); left alignment keeps artwork left-aligned.
