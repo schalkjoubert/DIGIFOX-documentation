@@ -7,6 +7,13 @@ taxonomy:
 
 ---
 
+3.0.2 | 2026-04-17
+* Fix: Prevent missing Contact icons when file-based SVG assets are unavailable by falling back to built-in SVG paths (so the icon stack never renders “background only”)
+
+3.0.1 | 2026-01-28
+* Fix: Contact SVG icons (phone, mobile, email, location) now load on new installs when only plugins/theme are copied. Icons are bundled in the plugin (`svg/plain-contact/`) so the block no longer depends on project `resources/svg-fa/plain-contact/`.
+* Update: SVG lookup now checks the active theme first (`assets/svg-fa/plain-contact`, `assets/svg-fa/plain-social`). Use the digifox theme to keep all icon assets in one place.
+
 3.0 | 2026-01-28
 * Cleanup: Removed legacy comments and unused assets.
 * Update: Added TikTok social link support.
