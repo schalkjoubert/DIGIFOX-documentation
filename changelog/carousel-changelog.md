@@ -13,6 +13,9 @@ taxonomy:
 * Added cache-busting versions for public CSS
 * Cleaned unused assets and legacy files
 
+3.0.1 | 2026-01-28
+* Fix: Use ACF context 'option' (not 'options') for get_field so option values load correctly
+
 2.0 | 2023-03-01
 * First major rebuild
 * Remove built-in demo
