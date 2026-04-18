@@ -7,6 +7,9 @@ taxonomy:
 
 ---
 
+
+3.0.1 | 2026-04-18
+
 3.0 | 2026-01-29
 * Cleanup: Removed legacy templates and inline scripts.
 * Update: Kept Font Awesome icons with conditional loading.
