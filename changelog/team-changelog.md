@@ -7,6 +7,8 @@ taxonomy:
 
 ---
 
+3.0.2.1 | 2026-04-18
+
 3.0.2 | 2026-04-06
 * Center grid team inner content when padding is applied
 
