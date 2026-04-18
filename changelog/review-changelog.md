@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+
+3.0.1.2 | 2026-04-18
+* Commit Test
+
 3.0.1.1 | 2026-04-18
 * Commit Test
 
