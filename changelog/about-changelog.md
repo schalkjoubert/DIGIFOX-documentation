@@ -8,6 +8,9 @@ taxonomy:
     post_tag: about
 
 ---
+### Version 3.0.0.1 | Released on 2026-04-18
+**Maintenance Release:** Test Webhook
+
 ### Version 3.0 | Released on 2026-01-28
 **Maintenance Release:** Cleaned up legacy code and improved output handling.
 - Streamlined public assets and dynamic styles.
