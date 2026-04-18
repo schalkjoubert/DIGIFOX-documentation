@@ -63,3 +63,6 @@ taxonomy:
 
 3.0.3 | 2026-04-04
 * Fix: When service_setting_text_align is center, icon and image artwork align to the center as well (style-dynamic); left alignment keeps artwork left-aligned.
+
+3.0.3.1 | 2026-04-18
+* Fix Repo Name
