@@ -7,6 +7,10 @@ taxonomy:
 
 ---
 
+
+3.0.0.2 | 2026-04-18
+Test Repo Push
+
 3.0 | 2026-01-28
 * Replace Slick slider with Digifox slider
 * Added dots/arrows pagination options
