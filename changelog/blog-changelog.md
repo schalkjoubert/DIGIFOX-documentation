@@ -24,3 +24,6 @@ taxonomy:
 
 0.1.6.2 | 2023-07-31
 * Fix Further changes to Prev & Next buttons alignment
+
+0.1.6.3 | 2023-07-31
+* New: Upadte Access Token
