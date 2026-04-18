@@ -7,6 +7,8 @@ taxonomy:
 
 ---
 
+3.0.1.1 | 2026-04-18
+
 3.0.1 | 2026-04-06
 * Align gallery module layout with standard head/heart structure
 * Add module-active to gallery container when active
