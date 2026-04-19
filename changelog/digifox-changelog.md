@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.4 | 2026-04-19
+* test*
+
 3.0.4-beta.2 | 2026-04-17
 * Update | WordPress login branding now always uses Digifox logo (`assets/img/digifox-logo-login.png`) instead of the site’s Customizer logo
 * Feature | Hide default login URL: login is now served at `/login`, and direct requests to `wp-login.php` or logged-out `/wp-admin` redirect to `/login` (`assets/functions/function-login.php`)
