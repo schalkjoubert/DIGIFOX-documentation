@@ -22,7 +22,3 @@ The **Digifox Cinema Module** lets you embed videos on your website. Open **Cine
 **Who this is for**
 
 Digifox subscribers who want a dedicated area for **showreels, project clips, case studies, or stories with video**—without touching code. If you need something that is not on the Cinema screen, your **Digifox support** team can help.
-
-== Changelog ==
-
-See cinema-changelog.md in the plugin directory for the full version history.
