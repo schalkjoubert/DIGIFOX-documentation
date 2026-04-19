@@ -1,6 +1,10 @@
 ---
 title: Index
-category: changelog
-post_tag: changelog
+taxonomy:
+    category:
+        - changelog
+        - module
+    post_tag:
+        - changelog
+        - module
 ---
-Index Carousel
