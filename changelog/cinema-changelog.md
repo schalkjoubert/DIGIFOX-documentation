@@ -7,6 +7,9 @@ taxonomy:
 
 ---
 
+3.0.1.4 | 2026-04-20
+* Release bump to refresh synced docs (`cinema-changelog.md`, `cinema-module.md`).
+
 3.0.1.3 | 2026-04-20
 * (Placeholder — replace or remove before release.)
 
