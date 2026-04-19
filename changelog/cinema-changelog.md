@@ -7,6 +7,9 @@ taxonomy:
 
 ---
 
+3.0.1.3 | 2026-04-20
+* (Placeholder — replace or remove before release.)
+
 3.0.1.2 | 2026-04-20
 * (Placeholder — replace or remove before release.)
 
