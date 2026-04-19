@@ -7,11 +7,12 @@ taxonomy:
 
 ---
 
-3.0.0.3 | 2026-04-18
-* Test Repo Push
+hello 
 
-3.0.0.2 | 2026-04-18
-* Test Repo Push
+3.0.1 | 2026-04-19
+* Image crop (Natural / 4:3 / 1:1) applies to video poster cards as well as image-only cards; fixed ratios use `object-fit: cover` with poster area filling the frame (including absolute-filled lightbox trigger for YouTube/Vimeo thumbs).
+* Dynamic styles: video posters no longer inherit “natural” contain rules that caused letterboxing; natural mode uses auto aspect on video posters with contain on the thumb only when appropriate.
+* YouTube auto posters: prefer `maxresdefault.jpg`, fallback `mqdefault.jpg` on load error (`includes/cinema-helpers.php`); avoid `hqdefault` bitmaps that often embed black bars.
 
 3.0 | 2026-01-28
 * Video lightbox only: all videos open in lightbox (no inline embeds)
