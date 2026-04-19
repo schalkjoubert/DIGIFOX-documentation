@@ -6,6 +6,7 @@ taxonomy:
     post_tag: module
 
 ---
+test
 
 The **Digifox Cinema Module** lets you embed videos on your website. Open **Cinema** from your site dashboard and fill in the fields—everything you need is on that screen.
 
