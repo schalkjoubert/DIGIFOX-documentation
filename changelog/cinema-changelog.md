@@ -7,7 +7,9 @@ taxonomy:
 
 ---
 
-hello 
+3.0.1.1 | 2026-04-20
+* Add `cinema-module.md` (subscriber-facing module copy for documentation).
+* Add GitHub Action `sync-module.yml` to copy `cinema-module.md` to `DIGIFOX-documentation` / `module` on push.
 
 3.0.1 | 2026-04-19
 * Image crop (Natural / 4:3 / 1:1) applies to video poster cards as well as image-only cards; fixed ratios use `object-fit: cover` with poster area filling the frame (including absolute-filled lightbox trigger for YouTube/Vimeo thumbs).
