@@ -7,6 +7,9 @@ taxonomy:
 
 ---
 
+3.0.1.2 | 2026-04-20
+* (Placeholder — replace or remove before release.)
+
 3.0.1.1 | 2026-04-20
 * Add `cinema-module.md` (subscriber-facing module copy for documentation).
 * Add GitHub Action `sync-module.yml` to copy `cinema-module.md` to `DIGIFOX-documentation` / `module` on push.
