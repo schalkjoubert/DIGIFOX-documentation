@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.8 | 2026-04-25
+* Feature | Add Setup fields for GTM/GA snippets and output them in `header.php` (`setup_gtm_head`, `setup_gtm_body`, `setup_ga`)
+
 3.0.4-beta.7 | 2026-04-25
 * Feature | Centralize “link to module” registry + stable-key resolver in theme so module links work even if Banner plugin is inactive (`assets/functions/function-module-links.php`)
 
