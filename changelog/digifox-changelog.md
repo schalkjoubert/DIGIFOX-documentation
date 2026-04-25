@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.7 | 2026-04-25
+* Feature | Centralize “link to module” registry + stable-key resolver in theme so module links work even if Banner plugin is inactive (`assets/functions/function-module-links.php`)
+
 3.0.4-beta.6 | 2026-04-25
 * Fix | Prevent dev-generated CSS/sourcemaps from being committed (ignore `assets/css/style-dynamic.css` and `*.map`)
 
