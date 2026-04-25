@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.6 | 2026-04-25
+* Fix | Prevent dev-generated CSS/sourcemaps from being committed (ignore `assets/css/style-dynamic.css` and `*.map`)
+
 3.0.4-beta.5 | 2026-04-24
 * test*
 
