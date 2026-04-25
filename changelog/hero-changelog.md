@@ -1,11 +1,14 @@
 ---
 title: Hero - Changelog
-post_excerpt: We added a new fwature. You can now add an small logo / icon above the title as an overlay.
+post_excerpt: We added a new faature. You can now add an small logo / icon above the title as an overlay.
 taxonomy:
     category: changelog
     post_tag: changelog
 
 ---
+
+3.0.2 | 2026-04-25
+* Fix | Use theme module-link resolver (no dependency on Banner plugin)
 
 3.0.1 | 2026-04-18
 * Test commit from GH Desktop
