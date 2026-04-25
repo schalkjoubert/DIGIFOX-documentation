@@ -47,3 +47,6 @@ taxonomy:
 
 1.10 | 2024-06-03
 * Feature | Add Scroll Option to Any Module
+
+3.0.0.2 | 2026-04-25
+* Refactor | Move “link to module” registry + stable-key resolver into theme so links work without Banner plugin
