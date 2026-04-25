@@ -7,6 +7,31 @@ taxonomy:
 
 ---
 
+3.0.5.3 | 2026-04-25
+* Fix | Use theme module-link resolver (no dependency on Banner plugin)
+
+3.0.4 | 2026-04-06
+* Fix: When product_setting_text_align is center, icon and image artwork align to the center as well (style-dynamic); left alignment keeps artwork left-aligned.
+* Bump version so live sites detect updates after repo reconnection
+
+3.0.3 | 2026-01-28
+* New: Display product_price in slider and grid (ACF sub field product_price)
+* Cleanup: Remove stray blank lines in display template
+
+3.0.2 | 2026-01-28
+* Reverted: Remove default/fallback product content; module shows nothing when product_content is empty (use Demo Importer or add content in WP admin)
+
+3.0.1 | 2026-01-28
+* New: Default content when no products are added: two placeholder products with title and subtitle (Consulting / Support) so the module displays something until content is added in WordPress admin
+
+3.0 | 2026-01-28
+* Removed unused style-dynamic-x.php (legacy duplicate)
+* Security: sanitize_hex_color for slider arrow (setup_arrow); escape file URL at output
+* style-dynamic.php: hardened numeric values (grid column 1–5, gap 0–40, padding 0–10); docblock
+* Changelog: version order fixed; typo fixes (selction → selection, Bufg → bug, sevices → products)
+* GH_UPDATE_TOKEN: only set authentication when constant is defined (align with Cinema)
+* Version 3.0 set in plugin header and constant
+
 2.0 | 2023-03-01
 * First major rebuild
 * Remove built-in demo
@@ -46,25 +71,3 @@ taxonomy:
 
 2.4.5 | 2024-02-07
 * Feature: Add custom style section
-
-3.0 | 2026-01-28
-* Removed unused style-dynamic-x.php (legacy duplicate)
-* Security: sanitize_hex_color for slider arrow (setup_arrow); escape file URL at output
-* style-dynamic.php: hardened numeric values (grid column 1–5, gap 0–40, padding 0–10); docblock
-* Changelog: version order fixed; typo fixes (selction → selection, Bufg → bug, sevices → products)
-* GH_UPDATE_TOKEN: only set authentication when constant is defined (align with Cinema)
-* Version 3.0 set in plugin header and constant
-
-3.0.1 | 2026-01-28
-* New: Default content when no products are added: two placeholder products with title and subtitle (Consulting / Support) so the module displays something until content is added in WordPress admin
-
-3.0.2 | 2026-01-28
-* Reverted: Remove default/fallback product content; module shows nothing when product_content is empty (use Demo Importer or add content in WP admin)
-
-3.0.3 | 2026-01-28
-* New: Display product_price in slider and grid (ACF sub field product_price)
-* Cleanup: Remove stray blank lines in display template
-
-3.0.4 | 2026-04-06
-* Fix: When product_setting_text_align is center, icon and image artwork align to the center as well (style-dynamic); left alignment keeps artwork left-aligned.
-* Bump version so live sites detect updates after repo reconnection
