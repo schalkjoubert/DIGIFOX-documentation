@@ -8,6 +8,12 @@ taxonomy:
 
 ---
 
+3.0.4-beta.10 | 2026-04-26
+* Feature | Add built-in one-page SEO output (meta description, robots, canonical, Open Graph, Twitter, JSON-LD WebSite + Organization) + optional GA4/GTM tracking + simple `/sitemap.xml` endpoint driven by Setup ACF options (`assets/functions/_function-core-seo.php`, `functions.php`, `header.php`, `front-page.php`)
+
+3.0.4-beta.9 | 2026-04-26
+* Fix | Make `/login` work without WPS Hide Login by routing login requests even if rewrite rules weren’t flushed, and prevent redirect loops (`assets/functions/function-login.php`, `assets/functions/function-setup.php`)
+
 3.0.4-beta.8 | 2026-04-25
 * Feature | Add Setup fields for GTM/GA snippets and output them in `header.php` (`setup_gtm_head`, `setup_gtm_body`, `setup_ga`)
 
