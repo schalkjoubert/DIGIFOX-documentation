@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.11 | 2026-04-26
+* Fix | Remove duplicate WordPress core SEO output (disable core canonical tag + core robots max-image-preview) so Digifox Core SEO remains the single source (`assets/functions/_function-core-seo.php`)
+
 3.0.4-beta.10 | 2026-04-26
 * Feature | Add built-in one-page SEO output (meta description, robots, canonical, Open Graph, Twitter, JSON-LD WebSite + Organization) + optional GA4/GTM tracking + simple `/sitemap.xml` endpoint driven by Setup ACF options (`assets/functions/_function-core-seo.php`, `functions.php`, `header.php`, `front-page.php`)
 
