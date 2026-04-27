@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.12 | 2026-04-27
+* Feature | Add optional site-specific script loader for `assets/js/site-custom.js` (enqueued only if present; footer; after jQuery; cache-busted via `filemtime()`) (`assets/functions/_function-core-custom-scripts.php`)
+
 3.0.4-beta.11 | 2026-04-26
 * Fix | Remove duplicate WordPress core SEO output (disable core canonical tag + core robots max-image-preview) so Digifox Core SEO remains the single source (`assets/functions/_function-core-seo.php`)
 
