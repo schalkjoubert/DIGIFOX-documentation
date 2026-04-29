@@ -7,6 +7,9 @@ taxonomy:
 
 ---
 
+3.0.5.4 | 2026-04-29
+* Feature | Add `product_setting_card_radius` to override theme card radius for Product cards (-1 inherits theme default)
+
 3.0.5.3 | 2026-04-25
 * Fix | Use theme module-link resolver (no dependency on Banner plugin)
 
