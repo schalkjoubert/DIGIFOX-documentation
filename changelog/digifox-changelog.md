@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.16 | 2026-04-29
+* Update | Remove global heading `text-align: center` from `_style-general.scss` so heading alignment is controlled by modules and WYSIWYG editor content
+
 3.0.4-beta.15 | 2026-04-29
 * Fix | Prevent global centered headings from affecting post WYSIWYG content; left-align headings and add list padding inside single post content (`assets/scss/_style-single-post.scss`)
 
