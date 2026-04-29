@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.13 | 2026-04-27
+* Fix | Track “Book a Visit” popup opens reliably by observing Digifox Popup open state (MutationObserver) instead of delegated click (blocked by popup plugin’s capture + stopImmediatePropagation) (`assets/js/site-custom.js`)
+
 3.0.4-beta.12 | 2026-04-27
 * Feature | Add optional site-specific script loader for `assets/js/site-custom.js` (enqueued only if present; footer; after jQuery; cache-busted via `filemtime()`) (`assets/functions/_function-core-custom-scripts.php`)
 
