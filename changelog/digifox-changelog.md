@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.15 | 2026-04-29
+* Fix | Prevent global centered headings from affecting post WYSIWYG content; left-align headings and add list padding inside single post content (`assets/scss/_style-single-post.scss`)
+
 3.0.4-beta.14 | 2026-04-29
 * Fix | Prevent global `header { ... }` styles from affecting post `<header class="entry-header">` by scoping header CSS to `.header` (SCSS source updated)
 * Feature | Improve single post layout (1/3 featured image + 2/3 summary; content full width) and keep it stable across SCSS recompiles (`assets/scss/_style-single-post.scss`)
