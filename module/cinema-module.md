@@ -7,154 +7,104 @@ taxonomy:
 
 ---
 
-The **Digifox Cinema Module** lets you embed videos on your website. Open **Cinema** from your site dashboard and fill in the fields—everything you need is on that screen.
+The Digifox Cinema Module lets you embed videos from YouTube or Vimeo on your website. Create your reel and display it in either a grid or carousel. Videos open in a lightbox so visitors stay on the page and stay engaged.
 
 ### Cinema | Content
 
-These fields control the copy and media for the module. They appear in the **Cinema | Content** field group on the Cinema options screen.
-
 **Heading**
-
-The main title shown at the top of the Cinema block.
+The main title shown at the top of the Cinema module.
 
 **Intro**
-
-Optional short line under the heading (a quick teaser; use the longer **Description** if you need more text).
+Optional short line or subheading under the heading.
 
 **Description**
-
 Optional longer text about this section. Line breaks are preserved so you can structure paragraphs.
 
 **Reel**
-
-The list of **Cinema cards** visitors see. Use **Add Cinema Card** for each item.
+The list of Cinema Cards visitors see. Use <code>Add Cinema Card</code> for each item.
 
 **Title**
-
 The card’s primary heading.
 
 **Subtitle**
-
 A secondary line (optional).
 
 **Description**
-
 Extra text for that card (optional).
 
 **Video**
-
 Paste an embeddable link (for example from YouTube or Vimeo). This is the clip that plays when someone opens the video.
 
 **Image**
-
 Optional poster or preview still for this card. Recommended size **600 × 450px**. If you leave it empty, Cinema uses a thumbnail from the hosted video when the platform provides one.
 
 ### Cinema | Settings
 
-These options control whether the module appears, where it sits relative to other modules, layout, and styling. They appear in the **Cinema | Settings** field group (often in the sidebar on the same Cinema screen).
-
 **Active**
-
-**Yes** turns the Cinema module on for the site; **No** hides it until you are ready.
+Control whether the Cinema module should display for visitors. If you are not using it yet or are not ready, set it to <code>No</code>.
 
 **Order**
-
-A number that controls where this module appears among other homepage modules (lower numbers typically appear higher on the page; exact behaviour matches your theme).
+A number that controls where this module appears among other homepage modules (lower numbers typically appear higher on the page).
 
 **Menu**
-
-Short label used when the theme adds navigation or jump links to this section (for example in an on-page menu).
+Optional label in the navigation with jump links that scroll to this module.
 
 **Display**
-
-**Grid** shows all cards in a responsive grid; **Slider** shows them in a carousel visitors step through.
+<code>Grid</code> shows all cards in a responsive grid. <code>Slider</code> shows the cards in a carousel visitors step through.
 
 **Columns**
-
-How many columns the grid uses (1–5) when **Display** is set to grid.
+How many columns the grid uses (1–5). When you have more cards than columns, extra cards wrap to a new row in grid mode, or appear as visitors move through the slider.
 
 **Gap**
-
-Space between cards in pixels (the theme uses a stepped scale up to 40px).
+Space between cards in pixels.
 
 **Padding**
-
-Inner spacing for the block, in pixels, so content does not sit flush against the edges.
+Inner spacing for the block, in pixels, so content does not sit flush against the edges. Especially useful when you have text content as well as borders.
 
 **Image Radius**
-
-Rounds the corners of card images, as a percentage. **-1** means “use the site’s global image radius from theme setup”; **0** and up override that for Cinema cards only.
+Rounds the corners of card images, as a percentage.
+Use <code>-1</code> to use global settings as per <code>Setup</code>.
 
 **Image Crop**
-
-When still images are used, how they are cropped so rows look even: **Natural** shows the full image; **4:3** and **1:1** crop to those aspect ratios for a uniform row height.
+You can control how images are cropped so all cards look uniform.
 
 **Layout**
-
-Overall shape of each card’s media area: **Portrait** (taller) or **Landscape** (wider).
+Overall shape of each card’s media area: portrait (taller) or landscape (wider).
+<code>Portrait</code> puts video above the optional text.
+<code>Landscape</code> puts video to the left of the optional text.
 
 **Text Align**
-
-Aligns title and text under each card: **Left** or **Center**.
+Aligns title and text under each card.
 
 **Border**
-
-Adds a visible border around cards when **Yes**.
+Adds a visible border around cards when enabled.
+The color is set in <code>Setup</code>.
 
 **Background**
-
-Applies the theme’s background treatment for this module block when **Yes**.
+Applies a background to cards.
+The color is set in <code>Setup</code>.
 
 **Equal Heights**
-
-When **Yes**, cards in a row share the same height so the block looks level even when titles or descriptions differ in length.
+Enable cards to adopt the height of the tallest card even when titles or descriptions differ in length.
 
 **Pagination**
-
-Shown when **Display** is **Slider**: choose **Dots**, **Arrows**, or **None** for how visitors move between slides. *(ACF help text may refer to “reviews”; for Cinema this controls slide navigation.)*
+Navigation options for how visitors move between slider cards.
 
 **Speed**
-
-When using the slider, how long the transition between slides takes, in milliseconds.
+Set the transition time between slides, in milliseconds.
 
 **Delay**
-
-When using the slider, pause between automatic advances, in milliseconds. **0** means no autoplay—visitors change slides themselves.
+When using the slider, pause between automatic advances, in milliseconds.
+Set to <code>0</code> to disable autoplay and let visitors change slides themselves.
 
 **Custom Style**
+Advanced option: set to <code>Yes</code> to unlock the extra CSS field for custom style tweaks.
 
-**Yes** unlocks the extra CSS field for advanced tweaks; **No** uses only the theme’s built-in Cinema styles.
-
-**Custom CSS**
-
-Appears when **Custom Style** is **Yes**. Optional CSS scoped by the theme for this module (for designers or support-assisted fine-tuning).
 
 ### What you can set up
 
-**Introduce the section**
+You can introduce the section with a main heading, a short line underneath, and optional longer copy so visitors know what they are looking at. Build your reel by adding one or more cards—each can include a title, subtitle, optional description, and a video link from YouTube or Vimeo.
 
-Add a main heading, a short line underneath, and optional longer copy that explains what visitors are seeing.
+Choose **grid** or **slider** so cards sit in a responsive grid or in a carousel visitors step through, similar to other showcase areas on Digifox sites. Playback opens in a lightbox **on top of the page**, which keeps people on your site and avoids cluttering the layout.
 
-**Build your reel**
-
-Create one or more **cards**. Each card can have a title, subtitle, optional description text, and a **video** (for example a link from YouTube or Vimeo).
-
-**Choose how it moves**
-
-Show cards in a **grid**, or as a **slider** that visitors can step through (similar to other showcase areas on Digifox sites).
-
-**Keep the page tidy**
-
-When someone plays a video, it opens **on top of the page** so they stay on your site and the video does not clutter the layout.
-
-**Poster images**
-
-For each card you can upload a **still image** as the preview. If you leave that empty, Cinema uses a **thumbnail from the video** when possible so the card still looks complete.
-
-**Look and spacing**
-
-Adjust **columns**, **spacing**, **padding**, whether cards feel more **portrait or landscape**, **alignment** of text, and optional **border** and **background** so the block matches your brand.
-
-**How images are cropped**
-
-Pick **Natural** (show the full picture), **4:3**, or **square**. The tighter options keep cards neat and even when you use posters or stills.
+For each card you can upload a **still image** as the poster; if you skip it, Cinema uses a **thumbnail from the video** when the host provides one. **Columns**, **gap**, **padding**, **portrait or landscape** layout, **text alignment**, and optional **border** and **background** let you tune spacing and look so the block fits your brand. **Image crop** offers **Natural**, **4:3**, or **square**—the tighter ratios keep rows neat when you use posters or stills.
