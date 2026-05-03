@@ -1,7 +1,7 @@
 ---
 title: Cinema Module
 post_excerpt: The Digifox Cinema Module lets you embed videos from YouTube or Vimeo on your website. Create your reel and display it in either a grid or carousel. Videos open in a lightbox so visitors stay on the page and stay engaged.
-featured_image: /cinema-thumbnail.jpg
+featured_image: _images/cinema-thumbnail.jpg
 taxonomy:
     category: module
     post_tag: module
