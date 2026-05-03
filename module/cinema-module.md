@@ -1,13 +1,18 @@
 ---
 title: Cinema Module
-post_excerpt: The Digifox Cinema Module lets you embed videos on your website.
+post_excerpt: The Digifox Cinema Module lets you embed videos from YouTube or Vimeo on your website. Create your reel and display it in either a grid or carousel. Videos open in a lightbox so visitors stay on the page and stay engaged.
+featured_image: _images/cinema-thumbnail.jpg
 taxonomy:
     category: module
     post_tag: module
 
 ---
 
-The Digifox Cinema Module lets you embed videos from YouTube or Vimeo on your website. Create your reel and display it in either a grid or carousel. Videos open in a lightbox so visitors stay on the page and stay engaged.
+You can introduce the section with a main heading, a short line underneath, and optional longer copy so visitors know what they are looking at. Build your reel by adding one or more cards—each can include a title, subtitle, optional description, and a video link from YouTube or Vimeo.
+
+Choose grid or slider so cards sit in a responsive grid or in a carousel visitors step through, similar to other showcase areas on Digifox sites. Playback opens in a lightbox on top of the page, which keeps people on your site and avoids cluttering the layout.
+
+For each card you can upload a still image as the poster; if you skip it, Cinema uses a thumbnail from the video when the host provides one. Columns, gap, padding, portrait or landscape layout, text alignment, and optional border and background let you tune spacing and look so the block fits your brand. Image crop offers Natural, 4:3, or square—the tighter ratios keep rows neat when you use posters or stills.
 
 ### Cinema | Content
 
@@ -99,12 +104,3 @@ Set to <code>0</code> to disable autoplay and let visitors change slides themsel
 
 **Custom Style**
 Advanced option: set to <code>Yes</code> to unlock the extra CSS field for custom style tweaks.
-
-
-### What you can set up
-
-You can introduce the section with a main heading, a short line underneath, and optional longer copy so visitors know what they are looking at. Build your reel by adding one or more cards—each can include a title, subtitle, optional description, and a video link from YouTube or Vimeo.
-
-Choose **grid** or **slider** so cards sit in a responsive grid or in a carousel visitors step through, similar to other showcase areas on Digifox sites. Playback opens in a lightbox **on top of the page**, which keeps people on your site and avoids cluttering the layout.
-
-For each card you can upload a **still image** as the poster; if you skip it, Cinema uses a **thumbnail from the video** when the host provides one. **Columns**, **gap**, **padding**, **portrait or landscape** layout, **text alignment**, and optional **border** and **background** let you tune spacing and look so the block fits your brand. **Image crop** offers **Natural**, **4:3**, or **square**—the tighter ratios keep rows neat when you use posters or stills.
