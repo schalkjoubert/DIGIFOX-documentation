@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.17 | 2026-05-06
+* Fix | Output canonical URL for Open Graph (`og:url`) and add `<link rel="canonical">` to prevent Facebook preview inconsistencies between `www` and non-`www` host variants (`assets/functions/function-og.php`)
+
 3.0.4-beta.16 | 2026-04-29
 * Update | Remove global heading `text-align: center` from `_style-general.scss` so heading alignment is controlled by modules and WYSIWYG editor content
 
