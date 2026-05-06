@@ -1,6 +1,7 @@
 ---
 title: Cinema - Changelog
 post_excerpt: Cinema module for Digifox One Page. Video lightbox, poster thumbnails, title overlay.
+featured_image: _images/cinema-thumbnail.jpg
 taxonomy:
     category: changelog
     post_tag: changelog
