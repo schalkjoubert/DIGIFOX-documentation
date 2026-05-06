@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.18 | 2026-05-06
+* Fix | Improve Facebook/OG image reliability by adding support for `og:image:type`, `og:image:width`, and `og:image:height` when the OG image is a WordPress attachment (`assets/functions/function-og.php`)
+
 3.0.4-beta.17 | 2026-05-06
 * Fix | Output canonical URL for Open Graph (`og:url`) and add `<link rel="canonical">` to prevent Facebook preview inconsistencies between `www` and non-`www` host variants (`assets/functions/function-og.php`)
 
