@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.1.3 | 2026-05-07
+* Add module documentation, featured image, and sync workflow for Git it Write.
+
 3.0.1.2 | 2026-04-18
 * Commit Test
 
