@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.1.5.1 | 2026-05-08
+* Test Github Featured Imnage
+
 3.0.1.4 | 2026-04-20
 * Release bump to refresh synced docs (`cinema-changelog.md`, `cinema-module.md`).
 
