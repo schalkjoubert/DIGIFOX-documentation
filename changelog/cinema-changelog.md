@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.1.5.3 | 2026-05-08
+* Test Github Featured Imnage again
+
 3.0.1.5.1 | 2026-05-08
 * Test Github Featured Imnage
 
