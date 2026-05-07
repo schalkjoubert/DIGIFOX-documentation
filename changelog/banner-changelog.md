@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.0.4 | 2026-05-07
+* Add module documentation, featured image, and sync workflow for Git it Write.
+
 3.0.0.3 | 2026-04-25
 * Fix | Remove legacy admin footer script (prevents undefined function errors after module-link refactor)
 
