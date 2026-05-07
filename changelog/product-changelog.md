@@ -7,6 +7,9 @@ taxonomy:
 
 ---
 
+3.0.5.5 | 2026-05-07
+* Add module documentation, featured image, and sync workflow for Git it Write.
+
 3.0.5.4 | 2026-04-29
 * Feature | Add `product_setting_card_radius` to override theme card radius for Product cards (-1 inherits theme default)
 
