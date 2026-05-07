@@ -8,6 +8,10 @@ taxonomy:
     post_tag: about
 
 ---
+
+### Version 3.0.0.2 | Released on 2026-05-07
+**Documentation:** Add module documentation, featured image, and sync workflow for Git it Write.
+
 ### Version 3.0.0.1 | Released on 2026-04-18
 **Maintenance Release:** Test Webhook
 
