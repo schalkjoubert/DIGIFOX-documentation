@@ -5,6 +5,9 @@ featured_image: _images/cinema-module.jpg
 taxonomy:
     category: module
     post_tag: module
+custom_fields:
+    module_version: 3.0.1.5.5
+    module_updated: 2026-05-08
 
 ---
 
