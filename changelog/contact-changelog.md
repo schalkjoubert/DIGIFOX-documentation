@@ -7,6 +7,9 @@ taxonomy:
 
 ---
 
+3.0.3 | 2026-05-07
+* Add module documentation, featured image, and sync workflow for Git it Write.
+
 3.0.2 | 2026-04-17
 * Fix: Prevent missing Contact icons when file-based SVG assets are unavailable by falling back to built-in SVG paths (so the icon stack never renders “background only”)
 
