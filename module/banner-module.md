@@ -6,16 +6,18 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.0.4
-    module_updated: "7 May 2026"
+    module_version: 3.0.1
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Banner module to add a focused call-to-action section anywhere on the page. It works well for short campaigns, announcements, sales prompts, or strong single-message blocks that need to stand apart from surrounding content.
 
 You can pair concise copy with a button and optional background treatment, then use the settings to control spacing, alignment, and how the banner behaves visually. It is designed for moments where you want visitors to stop, read, and act.
 
-### Banner | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Banner module.
@@ -68,7 +70,7 @@ Choose one of the available options: <code>Open in same Tab</code>, <code>Open i
 **Background Image**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout.
 
-### Banner | Settings
+### Settings Fields
 
 **Active**
 Control whether the Banner module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
