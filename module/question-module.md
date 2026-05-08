@@ -7,15 +7,17 @@ taxonomy:
     post_tag: module
 custom_fields:
     module_version: 3.0.1
-    module_updated: "7 May 2026"
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Question module to answer common questions before visitors need to ask. It is ideal for FAQs, service details, process explanations, pricing notes, or objections that regularly come up during enquiries.
 
 Questions and answers can be managed from the dashboard, then displayed in a structured layout. Settings help keep the section readable, compact, and consistent with the rest of the page.
 
-### Question | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Question module.
@@ -32,7 +34,7 @@ The primary title for this item.
 **Description**
 Optional longer text for this section. Use it when visitors need more context than the intro provides.
 
-### Question | Settings
+### Settings Fields
 
 **Active**
 Control whether the Question module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
