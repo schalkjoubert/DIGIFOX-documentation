@@ -1,6 +1,7 @@
 ---
 title: Review Module
 post_excerpt: The Digifox Review Module lets you display customer reviews or testimonials in a grid or slider.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/review-module.jpg
 taxonomy:
     category: module
@@ -91,4 +92,4 @@ Keeps items at the height of the tallest item so rows feel balanced. Options inc
 Advanced option: set to <code>Yes</code> to unlock the extra CSS field for custom style tweaks. Options include <code>Yes</code>, <code>No</code>.
 
 **Custom CSS**
-Optional CSS for fine-tuning this module. Best used by designers or Digifox support.
+Optional CSS for fine-tuning this module. Best used by designers or Digifox support
