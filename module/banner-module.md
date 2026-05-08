@@ -1,6 +1,7 @@
 ---
 title: Banner Module
 post_excerpt: The Digifox Banner Module lets you highlight a focused message with optional background media and a call to action.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/banner-module.jpg
 taxonomy:
     category: module
