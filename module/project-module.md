@@ -7,15 +7,17 @@ taxonomy:
     post_tag: module
 custom_fields:
     module_version: 3.0.4
-    module_updated: "7 May 2026"
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Projects module to showcase work, case studies, portfolio items, or examples of completed projects. Each item can carry visual and written context so visitors can understand what was delivered.
 
 The module is useful for agencies, makers, service businesses, and portfolios. Settings let you control the grid or slider presentation, image treatment, spacing, and optional supporting details.
 
-### Projects | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Projects module.
@@ -74,7 +76,7 @@ Sets the modal text value for this project portfolio.
 **Modal Images**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout.
 
-### Projects | Settings
+### Settings Fields
 
 **Active**
 Control whether the Projects module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
