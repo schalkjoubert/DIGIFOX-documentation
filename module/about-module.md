@@ -1,6 +1,7 @@
 ---
 title: About Module
 post_excerpt: The Digifox About Module lets you introduce who you are, what you do, and why visitors should trust your business.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/about-module.jpg
 taxonomy:
     category: module
