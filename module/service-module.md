@@ -1,6 +1,7 @@
 ---
 title: Services Module
 post_excerpt: The Digifox Services Module lets you explain your services with cards, descriptions, and optional actions.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/service-module.jpg
 taxonomy:
     category: module
