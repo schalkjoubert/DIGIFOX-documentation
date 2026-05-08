@@ -1,13 +1,15 @@
 ---
 title: Question - Changelog
 post_excerpt: Question and answer accordion module for Digifox One Page.
+featured_image: _images/question-module.jpg
 taxonomy:
     category: changelog
     post_tag: changelog
+
 ---
 
-3.0.1 | 2026-05-07
-* Add module documentation, featured image, and sync workflow for Git it Write.
+3.0.1 | 2026-05-08
+* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
 3.0.0 | 2026-04-06
 * Start version 3 release line.
