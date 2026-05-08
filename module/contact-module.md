@@ -7,15 +7,17 @@ taxonomy:
     post_tag: module
 custom_fields:
     module_version: 3.0.3
-    module_updated: "7 May 2026"
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Contact module to make it easy for visitors to reach you. It can bring together a contact form, contact details, location information, and social links in one clear section.
 
 The module is useful near the end of a page, on dedicated contact pages, or anywhere a conversion point needs to be visible. Settings help control layout, spacing, and presentation so the contact area feels integrated rather than bolted on.
 
-### Contact | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Contact module.
@@ -119,7 +121,7 @@ Select Yes to display a google map Options include <code>Yes</code>, <code>No</c
 **Iframe**
 How to get your code Go to google maps: link Search your location Click on the share icon Select Embed a Map Copy & Paste the iframe code above
 
-### Contact | Settings
+### Settings Fields
 
 **Active**
 Control whether the Contact module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
