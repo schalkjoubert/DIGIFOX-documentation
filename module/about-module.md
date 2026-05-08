@@ -6,16 +6,18 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.0.2
-    module_updated: "7 May 2026"
+    module_version: 3.0.1
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the About module to introduce your business, your positioning, and the key message visitors should understand before they move deeper into the page. It gives you space for a heading, supporting copy, and optional media so the section can feel simple or more editorial depending on the site.
 
 The module is useful for short “who we are” blocks, founder introductions, mission statements, or context that helps visitors trust the brand. Settings let you tune spacing, alignment, media placement, and styling so the story fits alongside the rest of the Digifox page.
 
-### About | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the About module.
@@ -29,7 +31,7 @@ Sets the text value for this story section.
 **Endnote**
 Sets the endnote value for this story section.
 
-### About | Settings
+### Settings Fields
 
 **Active**
 Control whether the About module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
