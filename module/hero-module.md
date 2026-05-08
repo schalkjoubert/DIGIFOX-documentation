@@ -7,15 +7,17 @@ taxonomy:
     post_tag: module
 custom_fields:
     module_version: 3.0.3
-    module_updated: "7 May 2026"
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Hero module for the main opening statement of a page. It is designed for strong headings, supporting copy, imagery or video, and clear calls to action that set the tone for the rest of the page.
 
 The module gives you control over the headline area, media, buttons, and layout so the first screen can be direct, branded, and conversion-focused. Settings help adapt the hero to different page goals and screen sizes.
 
-### Hero | Content
+### Content Fields
 
 **Hero Background**
 Choose one of the available options: <code>Background Image/s</code>, <code>Background Video</code>, <code>Background Colour</code>.
@@ -80,7 +82,7 @@ Choose one of the available options: <code>Open in same Tab</code>, <code>Open i
 **Logo**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout.
 
-### Hero | Settings
+### Settings Fields
 
 **Active**
 Control whether the Hero module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
