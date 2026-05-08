@@ -1,37 +1,15 @@
 ---
 title: Cinema - Changelog
 post_excerpt: Cinema module for Digifox One Page. Video lightbox, poster thumbnails, title overlay.
-featured_image: _images/cinema-thumbnail.jpg
+featured_image: _images/cinema-module.jpg
 taxonomy:
     category: changelog
     post_tag: changelog
 
 ---
 
-3.0.1.5.5 | 2026-05-08
-* Test Github Featured Imnage again
-
-3.0.1.5.4 | 2026-05-08
-* Test Github Featured Imnage again
-
-3.0.1.5.3 | 2026-05-08
-* Test Github Featured Imnage again
-
-3.0.1.5.1 | 2026-05-08
-* Test Github Featured Imnage
-
-3.0.1.4 | 2026-04-20
-* Release bump to refresh synced docs (`cinema-changelog.md`, `cinema-module.md`).
-
-3.0.1.3 | 2026-04-20
-* (Placeholder — replace or remove before release.)
-
-3.0.1.2 | 2026-04-20
-* (Placeholder — replace or remove before release.)
-
-3.0.1.1 | 2026-04-20
-* Add `cinema-module.md` (subscriber-facing module copy for documentation).
-* Add GitHub Action `sync-module.yml` to copy `cinema-module.md` to `DIGIFOX-documentation` / `module` on push.
+3.0.2 | 2026-05-08
+* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
 3.0.1 | 2026-04-19
 * Image crop (Natural / 4:3 / 1:1) applies to video poster cards as well as image-only cards; fixed ratios use `object-fit: cover` with poster area filling the frame (including absolute-filled lightbox trigger for YouTube/Vimeo thumbs).
