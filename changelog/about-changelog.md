@@ -2,6 +2,7 @@
 title: About - Changelog
 post_status: publish
 post_excerpt: Added the option to center align content.
+featured_image: _images/about-module.jpg
 taxonomy:
     category: 
         - changelog
@@ -9,11 +10,8 @@ taxonomy:
 
 ---
 
-### Version 3.0.0.2 | Released on 2026-05-07
-**Documentation:** Add module documentation, featured image, and sync workflow for Git it Write.
-
-### Version 3.0.0.1 | Released on 2026-04-18
-**Maintenance Release:** Test Webhook
+### Version 3.0.1 | Released on 2026-05-08
+**Documentation:** Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
 ### Version 3.0 | Released on 2026-01-28
 **Maintenance Release:** Cleaned up legacy code and improved output handling.
