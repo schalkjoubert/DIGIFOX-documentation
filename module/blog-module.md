@@ -7,15 +7,17 @@ taxonomy:
     post_tag: module
 custom_fields:
     module_version: 3.0.2
-    module_updated: "7 May 2026"
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Blog module to feature posts directly on the page, either as a recent-content feed or a curated article area. It gives visitors a route into longer-form updates, insights, news, or educational content without leaving the flow of the page.
 
 The settings control how many posts appear, how they are arranged, and how the section fits the surrounding layout. This makes it useful for homepages, content hubs, or landing pages where fresh posts support the main message.
 
-### Blog | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Blog module.
@@ -26,7 +28,7 @@ Optional short line or subheading under the heading.
 **Description**
 Optional longer text for this section. Use it when visitors need more context than the intro provides.
 
-### Blog | Settings
+### Settings Fields
 
 **Active**
 Control whether the Blog module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
