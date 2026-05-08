@@ -1,21 +1,24 @@
 ---
 title: Popup Module
 post_excerpt: The Digifox Popup Module lets you show a focused announcement, offer, or message in a controlled popup.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/popup-module.jpg
 taxonomy:
     category: module
     post_tag: module
 custom_fields:
     module_version: 1.0.4
-    module_updated: "7 May 2026"
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Popup module to show a focused message without permanently taking space on the page. It is useful for announcements, promotions, lead prompts, notices, or time-sensitive calls to action.
 
 Content fields define the message and action, while settings control when and how the popup appears. The goal is to create a clear prompt without disrupting the rest of the page more than necessary.
 
-### Popup | Content
+### Content Fields
 
 **Image**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout.
@@ -74,7 +77,7 @@ Sets the file value for this popup message.
 **Window**
 Choose one of the available options: <code>Open in same Tab</code>, <code>Open in new Tab</code>, <code>Force Download</code>.
 
-### Popup | Settings
+### Settings Fields
 
 **Active**
 Control whether the Popup module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
