@@ -1,6 +1,7 @@
 ---
 title: Team Module
 post_excerpt: The Digifox Team Module lets you introduce team members with photos, roles, bios, and social links.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/team-module.jpg
 taxonomy:
     category: module
