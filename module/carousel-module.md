@@ -66,4 +66,4 @@ Advanced option: set to <code>Yes</code> to unlock the extra CSS field for custo
 
 **Custom CSS**
 Optional CSS for fine-tuning this module. Best used by designers or Digifox support.
-
+..
