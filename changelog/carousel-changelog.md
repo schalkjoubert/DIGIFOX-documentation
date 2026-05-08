@@ -1,20 +1,18 @@
 ---
 title: Carousel - Changelog
 post_excerpt: New major release fo the Carousel Module.
+featured_image: _images/carousel-module.jpg
 taxonomy:
     category: changelog
     post_tag: changelog
 
 ---
 
-3.0.3 | 2026-05-08
-* Add module new featured image, and sync workflow for Git it Write.
+3.0.2 | 2026-05-08
+* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
-3.0.2 | 2026-05-07
-* Add module documentation, featured image, and sync workflow for Git it Write.
-
-3.0.0.2 | 2026-04-18
-Test Repo Push
+3.0.1 | 2026-01-28
+* Fix: Use ACF context 'option' (not 'options') for get_field so option values load correctly
 
 3.0 | 2026-01-28
 * Replace Slick slider with Digifox slider
@@ -22,34 +20,30 @@ Test Repo Push
 * Added cache-busting versions for public CSS
 * Cleaned unused assets and legacy files
 
-3.0.1 | 2026-01-28
-* Fix: Use ACF context 'option' (not 'options') for get_field so option values load correctly
-
-2.0 | 2023-03-01
-* First major rebuild
-* Remove built-in demo
-
-2.1 | 2023-03-22
-* Fix: Remove hardcoded heading for testing.
-
-
-2.2 | 2023-03-23
-* Convert slug.
-
-2.3 | 2023-03-28
-* Fix: Create universal containers for head, heart and feet.
-
-2.4 | 2023-04-14
-* New: Create "under construction" setup option.
-
-2.5 | 2023-07-31
-* New: Upadte Access Token
-
-2.6 | 2023-10-19
-* Fix broken the scroll when menu value is more than one word, thus includes a space. 
+2.7.1 | 2024-03-15
+* Fix Padding & Margin value when range slider set to zero
 
 2.7 | 2024-03-15
 * Fix Padding & Margin value when range slider set to zero
 
-2.7.1 | 2024-03-15
-* Fix Padding & Margin value when range slider set to zero
+2.6 | 2023-10-19
+* Fix broken the scroll when menu value is more than one word, thus includes a space.
+
+2.5 | 2023-07-31
+* New: Upadte Access Token
+
+2.4 | 2023-04-14
+* New: Create "under construction" setup option.
+
+2.3 | 2023-03-28
+* Fix: Create universal containers for head, heart and feet.
+
+2.2 | 2023-03-23
+* Convert slug.
+
+2.1 | 2023-03-22
+* Fix: Remove hardcoded heading for testing.
+
+2.0 | 2023-03-01
+* First major rebuild
+* Remove built-in demo
