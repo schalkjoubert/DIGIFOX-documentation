@@ -1,15 +1,18 @@
 ---
 title: Cinema Module
 post_excerpt: The Digifox Cinema Module lets you embed videos from YouTube or Vimeo on your website. Create your reel and display it in either a grid or carousel. Videos open in a lightbox so visitors stay on the page and stay engaged.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/cinema-module.jpg
 taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.1.5.5
+    module_version: 3.0.2
     module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 You can introduce the section with a main heading, a short line underneath, and optional longer copy so visitors know what they are looking at. Build your reel by adding one or more cards—each can include a title, subtitle, optional description, and a video link from YouTube or Vimeo.
 
@@ -17,7 +20,7 @@ Choose grid or slider so cards sit in a responsive grid or in a carousel visitor
 
 For each card you can upload a still image as the poster; if you skip it, Cinema uses a thumbnail from the video when the host provides one. Columns, gap, padding, portrait or landscape layout, text alignment, and optional border and background let you tune spacing and look so the block fits your brand. Image crop offers Natural, 4:3, or square—the tighter ratios keep rows neat when you use posters or stills.
 
-### Cinema | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Cinema module
@@ -46,7 +49,7 @@ Paste an embeddable link (for example from YouTube or Vimeo). This is the clip t
 **Image**
 Optional poster or preview still for this card. Recommended size **600 × 450px**. If you leave it empty, Cinema uses a thumbnail from the hosted video when the platform provides one.
 
-### Cinema | Settings
+### Settings Fields
 
 **Active**
 Control whether the Cinema module should display for visitors. If you are not using it yet or are not ready, set it to <code>No</code>.
