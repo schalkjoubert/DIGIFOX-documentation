@@ -6,16 +6,18 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.5.5
-    module_updated: "7 May 2026"
+    module_version: 3.0.6
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Product module to present products, packages, or offers in a structured showcase. It can combine product copy, imagery, pricing-style details, and calls to action so visitors can compare or choose quickly.
 
 The settings control card layout, columns, spacing, and visual treatment. This makes it useful for ecommerce-style blocks, service packages, feature comparisons, or highlighted offers.
 
-### Product | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Product module.
@@ -71,7 +73,7 @@ Optional icon used to visually support this item.
 **Image**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout. Recommended Size: 600px by 450px.
 
-### Product | Settings
+### Settings Fields
 
 **Active**
 Control whether the Product module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
