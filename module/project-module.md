@@ -1,6 +1,7 @@
 ---
 title: Projects Module
 post_excerpt: The Digifox Projects Module lets you showcase completed work, case studies, or portfolio items.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/project-module.jpg
 taxonomy:
     category: module
