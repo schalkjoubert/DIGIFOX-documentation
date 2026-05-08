@@ -6,16 +6,18 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.1.3
-    module_updated: "7 May 2026"
+    module_version: 3.0.2
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Review module to display social proof from customers, clients, or collaborators. Reviews can be shown as cards or a slider so visitors see trust signals without needing to search for them.
 
 Each review can include written feedback and supporting details, while the settings control layout, movement, spacing, and visual treatment. It is designed to make credibility easy to scan.
 
-### Review | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Review module.
@@ -44,7 +46,7 @@ Optional image used by this item or section. Use consistent image sizes where po
 **Rating**
 Sets the rating value for this review section.
 
-### Review | Settings
+### Settings Fields
 
 **Active**
 Control whether the Review module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
