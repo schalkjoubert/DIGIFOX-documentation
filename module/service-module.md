@@ -6,16 +6,18 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.3.3
-    module_updated: "7 May 2026"
+    module_version: 3.0.4
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Services module to explain what you offer in a clear set of cards or blocks. It works well for service lists, capabilities, packages, or any area where visitors need a quick overview of how you can help.
 
 Each service can include a title, description, image or icon where supported, and optional action. Settings control layout, columns, spacing, and styling so the section can be concise or more detailed.
 
-### Services | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Services module.
@@ -68,7 +70,7 @@ Optional icon used to visually support this item.
 **Image**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout. Recommended Size: 600px by 450px.
 
-### Services | Settings
+### Settings Fields
 
 **Active**
 Control whether the Services module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
