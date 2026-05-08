@@ -2,14 +2,15 @@
 title: Banner - Changelog
 post_status: publish
 post_excerpt: New Module with call to action and optional parallax background.
+featured_image: _images/banner-module.jpg
 taxonomy:
     category: changelog
     post_tag: changelog
 
 ---
 
-3.0.0.4 | 2026-05-07
-* Add module documentation, featured image, and sync workflow for Git it Write.
+3.0.1 | 2026-05-08
+* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
 3.0.0.3 | 2026-04-25
 * Fix | Remove legacy admin footer script (prevents undefined function errors after module-link refactor)
