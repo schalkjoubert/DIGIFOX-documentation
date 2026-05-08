@@ -1,14 +1,15 @@
 ---
 title: Popup - Changelog
 post_excerpt: Popup module for Digifox One Page.
+featured_image: _images/popup-module.jpg
 taxonomy:
     category: changelog
     post_tag: changelog
 
 ---
 
-1.0.4 | 2026-05-07
-* Add module documentation, featured image, and sync workflow for Git it Write.
+1.0.4 | 2026-05-08
+* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
 1.0.3 | 2026-04-29
 * Fix | Respect auto-popup expiry cookie even when logged-in (use `?digifox_popup_force=1` to test)
@@ -19,4 +20,3 @@ taxonomy:
 
 1.0.1 | 2026-04-25
 * New | Popup module with auto/button triggers, cookie expiry, hero layout, and Gravity Forms selector
-
