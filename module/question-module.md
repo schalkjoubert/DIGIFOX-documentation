@@ -1,6 +1,7 @@
 ---
 title: Question Module
 post_excerpt: The Digifox Question Module lets you answer common visitor questions in a structured question-and-answer layout.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/question-module.jpg
 taxonomy:
     category: module
