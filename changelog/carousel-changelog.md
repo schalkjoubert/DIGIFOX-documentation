@@ -7,6 +7,11 @@ taxonomy:
 
 ---
 
+3.0.3 | 2026-05-08
+* Add module new featured image, and sync workflow for Git it Write.
+
+3.0.2 | 2026-05-07
+* Add module documentation, featured image, and sync workflow for Git it Write.
 
 3.0.0.2 | 2026-04-18
 Test Repo Push
