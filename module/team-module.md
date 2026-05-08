@@ -6,16 +6,18 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.2.2
-    module_updated: "7 May 2026"
+    module_version: 3.0.3
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Team module to introduce the people behind the business. Team cards can show photos, names, roles, short bios, and social links where supported.
 
 It is useful for building trust, showing expertise, and making a brand feel more personal. Settings control card layout, columns, spacing, image treatment, and optional slider behaviour.
 
-### Team | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Team module.
@@ -59,7 +61,7 @@ Sets the website value for this team section.
 **Phone**
 Phone number shown in this section.
 
-### Team | Settings
+### Settings Fields
 
 **Active**
 Control whether the Team module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
