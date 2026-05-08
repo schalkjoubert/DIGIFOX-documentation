@@ -11,11 +11,13 @@ custom_fields:
 
 ---
 
+### Overview
+
 Use the Carousel module to display a rotating set of images, highlights, logos, or visual messages in a compact format. It is useful when you want to show more than one item without taking up the full height of a page section.
 
 You can add the content items, then tune slide movement, pagination, spacing, and image treatment. The result is a flexible visual strip that can support showcases, brand moments, or quick browsing.
 
-### Carousel | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Carousel module.
@@ -26,7 +28,7 @@ Optional short supporting line under the heading.
 **Images**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout. Recommended Size: 240px by 240px.
 
-### Carousel | Settings
+### Settings Fields
 
 **Active**
 Control whether the Carousel module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
@@ -66,4 +68,3 @@ Advanced option: set to <code>Yes</code> to unlock the extra CSS field for custo
 
 **Custom CSS**
 Optional CSS for fine-tuning this module. Best used by designers or Digifox support.
-..
