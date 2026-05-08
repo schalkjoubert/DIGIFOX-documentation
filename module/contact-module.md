@@ -1,6 +1,7 @@
 ---
 title: Contact Module
 post_excerpt: The Digifox Contact Module lets you display contact details, forms, and social links so visitors can get in touch.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/contact-module.jpg
 taxonomy:
     category: module
