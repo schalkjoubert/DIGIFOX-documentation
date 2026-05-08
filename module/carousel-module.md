@@ -1,6 +1,7 @@
 ---
 title: Carousel Module
 post_excerpt: The Digifox Carousel Module lets you show a rotating set of images or highlights in a compact carousel.
+image_refresh: "2026-05-08-1128"
 featured_image: _images/carousel-module.jpg
 taxonomy:
     category: module
