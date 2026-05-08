@@ -6,16 +6,18 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.2
-    module_updated: "7 May 2026"
+    module_version: 3.0.1
+    module_updated: "8 May 2026"
 
 ---
+
+### Overview
 
 Use the Counter module to highlight numbers that build confidence: years of experience, completed projects, customers served, awards, locations, or other measurable proof points.
 
 Each counter can carry a value and label, while the settings control layout, spacing, and visual treatment. It gives visitors quick evidence of scale or credibility without requiring a long explanation.
 
-### Counter | Content
+### Content Fields
 
 **Heading**
 The main title shown at the top of the Counter module.
@@ -44,7 +46,7 @@ Optional icon used to visually support this item.
 **Image**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout.
 
-### Counter | Settings
+### Settings Fields
 
 **Active**
 Control whether the Counter module should display for visitors. Set it to <code>No</code> when the section is not in use or not ready. Options include <code>Yes</code>, <code>No</code>.
