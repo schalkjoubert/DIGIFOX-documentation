@@ -1,6 +1,6 @@
 ---
 title: Subscribe Module
-post_excerpt: The Digifox Subscribe Module lets you invite visitors to join your mailing list or enquiry flow with a focused form.
+post_excerpt: Invite visitors to join your mailing list with a focused form and CTA, designed to fit neatly into any page section.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/subscribe-module.jpg
 taxonomy:
