@@ -1,6 +1,6 @@
 ---
 title: Google Map Module
-post_excerpt: The Digifox Google Map Module lets you show an embedded Google Map inside the Contact section so visitors can quickly understand where your business, venue, or office is located.
+post_excerpt: Embed a Google Map inside the Contact section by enabling the map and pasting the iframe embed code from Google Maps.
 image_refresh: "2026-05-08-1358"
 featured_image: _images/google-map-module.jpg
 taxonomy:
