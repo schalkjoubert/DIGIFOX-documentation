@@ -1,14 +1,14 @@
 ---
 title: Contact Module
-post_excerpt: The Digifox Contact Module lets you display contact details, forms, and social links so visitors can get in touch.
+post_excerpt: Bring together contact details, a form, social links, business hours, and an optional map so visitors can reach you fast.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/contact-module.jpg
 taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.3
-    module_updated: "8 May 2026"
+    module_version: 3.0.5
+    module_updated: "9 May 2026"
 
 ---
 
