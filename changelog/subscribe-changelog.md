@@ -8,6 +8,12 @@ taxonomy:
 
 ---
 
+3.0.3 | 2026-05-09
+* Remove `subscribe_setting_text_align` from Subscribe settings and alignment-specific CSS; heading and intro follow theme `.module .head` (center) styles only.
+
+3.0.2 | 2026-05-09
+* Honour `subscribe_setting_text_align` so the heading and intro respect Left/Center; wrapper classes and public CSS for alignment.
+
 3.0.1 | 2026-05-08
 * Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
