@@ -8,6 +8,12 @@ taxonomy:
 
 ---
 
+3.0.5 | 2026-05-09
+* Remove `contact_setting_text_align` and alignment-specific CSS; heading and intro follow theme `.module .head` (center) styles only.
+
+3.0.4 | 2026-05-09
+* Honour `contact_setting_text_align` so the heading and intro respect Left/Center; alignment classes and public CSS.
+
 3.0.3 | 2026-05-08
 * Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
