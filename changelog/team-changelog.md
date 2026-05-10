@@ -8,8 +8,9 @@ taxonomy:
 
 ---
 
-3.0.3 | 2026-05-08
-* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
+3.0.3 | 2026-05-10
+* Documentation: public module docs page, featured image, GitHub Actions sync workflow for the Digifox documentation site.
+* When **Text align** is **Center**, the social icon row now centers too (`justify-content: center` on `.teamInner .social`; flex layout ignored `text-align` before).
 
 3.0.2 | 2026-04-06
 * Center grid team inner content when padding is applied
