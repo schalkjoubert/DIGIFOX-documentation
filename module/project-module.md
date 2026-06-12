@@ -1,6 +1,6 @@
 ---
 title: Projects Module
-post_excerpt: The Digifox Projects Module lets you showcase completed work, case studies, or portfolio items.
+post_excerpt: Showcase completed work as project cards, with consistent layouts, categories, and calls to action for case studies.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/project-module.jpg
 taxonomy:
