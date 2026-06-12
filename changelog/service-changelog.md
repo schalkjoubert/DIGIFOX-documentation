@@ -8,6 +8,11 @@ taxonomy:
 
 ---
 
+3.0.3.3 | 2026-06-12
+* Fix | Grid gap setting (`service_setting_grid_gap`) applies correctly (aligned with Product module)
+* Feature | Portrait card width driven by `service_setting_card_width` ACF field (300–600px) in style-dynamic
+* Fix | Regenerate dynamic CSS when Services options are saved (`acf/save_post`)
+
 3.0.4 | 2026-05-08
 * Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
