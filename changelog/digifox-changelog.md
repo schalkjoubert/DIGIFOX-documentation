@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.4-beta.19 | 2026-06-12
+* Feature | Add `product_setting_card_width`, `service_setting_card_width`, and `project_setting_card_width` ACF range fields (300–600px, portrait layout) (`acf-json/`)
+
 3.0.4-beta.18 | 2026-05-06
 * Fix | Improve Facebook/OG image reliability by adding support for `og:image:type`, `og:image:width`, and `og:image:height` when the OG image is a WordPress attachment (`assets/functions/function-og.php`)
 
