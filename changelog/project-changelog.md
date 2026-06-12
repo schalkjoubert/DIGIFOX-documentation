@@ -8,6 +8,14 @@ taxonomy:
 
 ---
 
+3.0.6 | 2026-06-12
+* Fix | Grid gap setting aligned with Product module in style-dynamic
+* Feature | Portrait card width driven by `project_setting_card_width` ACF field (300–600px) in style-dynamic
+
+3.0.5 | 2026-05-09
+* Fix | Project modal now opens correctly in slider display (render modals outside transformed slider track)
+* Fix | Ensure dynamic CSS regenerates reliably (ACF class check + regenerate on options save); grid gap uses `gap` with `!important`
+
 3.0.4 | 2026-05-08
 * Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
