@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+3.0.5.5 | 2026-06-12
+* Feature | Portrait card width driven by `product_setting_card_width` ACF field (300–600px) in style-dynamic
+
 3.0.6 | 2026-05-08
 * Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
 
