@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.4 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
 
 3.0.3.3 | 2026-06-12
 * Fix | Grid gap setting (`service_setting_grid_gap`) applies correctly (aligned with Product module)
