@@ -1,0 +1,79 @@
+---
+title: Slideshow - Changelog
+post_excerpt: Header-aware height (100% viewport) and global slider script.
+featured_image: _images/slideshow-module.jpg
+taxonomy:
+    category: changelog
+    post_tag: changelog
+
+---
+3.0.2 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
+
+3.0.2 | 2026-05-08
+* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
+
+3.0.1 | 2026-04-25
+* Fix | Use theme module-link resolver (no dependency on Banner plugin)
+
+3.0.0 | 2026-01-28
+* Rebuild: use theme global slider script (remove Slick)
+* Rename module to Slideshow; ACF field names slider_* → slideshow_*
+* Image crop: Natural / 4:3 / 16:9 (height % only when Natural)
+* Header-aware height when crop Natural and height 100%:
+  * Scenario 1: Order 1 + Header delay Yes → 100% browser height
+  * Scenario 2: Order 1 + Header delay No → 100% browser height minus large header
+  * Scenario 3: Order 2+ → 100% browser height minus small header
+* Fix: Admin sidebar position now respects order setting (theme maps menu slug `digifox-slider` to `slideshow_setting_order` / `slideshow_setting_active`)
+
+2.4.9 | 2024-06-04
+* Fix: Add Scroll to custom module option
+
+2.4.7 | 2024-01-15
+* Fix: Move Delay header feature to global settings
+
+2.4.6 | 2024-01-13
+* Fix: Overlay background not showing up since introduction if "logo option"
+* New: Add option to hide the Header initially wehn thge logo is included in the slide.
+
+2.4.5 | 2023-10-20
+* Fix same issue as 2.4.4. but related to the optional CTA
+
+2.4.4 | 2023-10-19
+* Fix: broken the scroll when menu value is more than one word, thus includes a space.
+
+2.4.3 | 2023-07-31
+* Update access token
+
+2.4.1 | 2023-07-14
+* New: We added a new feature. You can now add an small logo / icon above the title as an overlay.
+
+2.3 | 2023-04-14
+* New: Create "under construction" setup option.
+
+2.2 | 2023-03-30
+* Feature: Add scroll option to contact module
+* Fix: Smooth scroll
+
+2.1.4 | 2023-03-27
+* Fix: Minto bug fix
+
+2.1.3 | 2023-03-26
+* Fix: Minto bug fix
+
+2.1.2 | 2023-03-25
+* Fix: Update Callt oaction colour values
+
+2.1.1 | 2023-03-23
+* Fix: Update Height Control
+
+2.1 | 2023-03-22
+* Fix: Remove hardcoded heading for testing.
+
+2.0 | 2023-03-01
+* First major rebuild
+* Remove built-in demo
+* Updated column selction interface
+* Convert slug.
