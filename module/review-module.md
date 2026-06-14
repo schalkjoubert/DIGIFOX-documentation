@@ -1,6 +1,6 @@
 ---
 title: Review Module
-post_excerpt: The Digifox Review Module lets you display customer reviews or testimonials in a grid or slider.
+post_excerpt: Display customer reviews with ratings in a grid or slider, creating social proof that visitors can scan quickly.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/review-module.jpg
 taxonomy:
