@@ -9,6 +9,10 @@ taxonomy:
     post_tag: about
 
 ---
+3.0.0.2 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
 
 ### Version 3.0.1 | Released on 2026-05-08
 **Documentation:** Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
