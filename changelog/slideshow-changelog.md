@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+---
+3.0.3 | 2026-06-14
+* Update | Rename plugin identity from `digifox-slider` to `digifox-slideshow` (GitHub repo, updater slug, admin menu slug, text domain)
+
 3.0.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
