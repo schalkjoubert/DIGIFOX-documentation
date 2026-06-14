@@ -8,8 +8,20 @@ taxonomy:
 
 ---
 
+1.0.8 | 2026-06-12
+* Update | GitHub release deploy zip excludes dev-only files (`.md`, `.github`, `_images`, `.gitignore`) from client plugin updates
+
 1.0.4 | 2026-05-08
 * Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
+
+1.0.5 | 2026-05-08
+* Update | Versioned the “closed” cookie so updating the plugin resets popup state for all users
+
+1.0.6 | 2026-05-08
+* Update | Cookie buster now auto-updates when saving Popup options, resetting popup state for all users
+
+1.0.7 | 2026-05-08
+* Fix | `popup_setting_overlay` now overlays the hero background image when layout is set to Hero
 
 1.0.3 | 2026-04-29
 * Fix | Respect auto-popup expiry cookie even when logged-in (use `?digifox_popup_force=1` to test)
