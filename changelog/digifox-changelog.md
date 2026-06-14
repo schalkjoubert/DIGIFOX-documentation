@@ -7,6 +7,10 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.20 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
 
 3.0.4-beta.19 | 2026-06-12
 * Feature | Add `product_setting_card_width`, `service_setting_card_width`, and `project_setting_card_width` ACF range fields (300–600px, portrait layout) (`acf-json/`)
