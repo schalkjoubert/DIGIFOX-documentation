@@ -8,6 +8,11 @@ taxonomy:
 
 ---
 
+3.0.4 | 2026-05-10
+* Fix updates overwriting appearance: `style-dynamic.css` is regenerated from **your** Team options when the plugin version changes (and after WP plugin updates), instead of keeping a bundled snapshot that forced portrait layout / wrong crop / stray colours.
+* Removed injecting **Setup → Icon** colour onto social buttons (`!important`) — use theme `style-dynamic.php` or module CSS so Digifox Setup colours stay authoritative.
+* Public CSS: social link tiles default to **transparent** background (was `#555`) so theme styles apply.
+
 3.0.3 | 2026-05-10
 * Documentation: public module docs page, featured image, GitHub Actions sync workflow for the Digifox documentation site.
 * When **Text align** is **Center**, the social icon row now centers too (`justify-content: center` on `.teamInner .social`; flex layout ignored `text-align` before).
