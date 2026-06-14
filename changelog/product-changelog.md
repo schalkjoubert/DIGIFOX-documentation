@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5.6 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
 
 3.0.5.5 | 2026-06-12
 * Feature | Portrait card width driven by `product_setting_card_width` ACF field (300–600px) in style-dynamic
