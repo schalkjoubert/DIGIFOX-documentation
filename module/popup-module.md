@@ -1,6 +1,6 @@
 ---
 title: Popup Module
-post_excerpt: The Digifox Popup Module lets you show a focused announcement, offer, or message in a controlled popup.
+post_excerpt: Show a focused announcement, offer, or message in a controlled popup, with clear calls to action and styling options.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/popup-module.jpg
 taxonomy:
