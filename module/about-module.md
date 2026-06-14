@@ -1,6 +1,6 @@
 ---
 title: About Module
-post_excerpt: The Digifox About Module lets you introduce who you are, what you do, and why visitors should trust your business.
+post_excerpt: Introduce your business with a clear heading, two-column copy, and optional footnote—ideal for the “About” area.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/about-module.jpg
 taxonomy:
