@@ -1,6 +1,6 @@
 ---
 title: Product Module
-post_excerpt: The Digifox Product Module lets you present products or offers with images, copy, pricing cues, and calls to action.
+post_excerpt: Present products or offers as cards with imagery, copy, pricing cues, and calls to action so visitors can compare quickly.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/product-module.jpg
 taxonomy:
