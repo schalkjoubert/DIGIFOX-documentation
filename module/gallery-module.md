@@ -1,6 +1,6 @@
 ---
 title: Gallery Module
-post_excerpt: The Digifox Gallery Module lets you display a collection of images in a clean, responsive visual grid.
+post_excerpt: Display a responsive image gallery in a clean grid, with optional accents and spacing controls for a consistent look.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/gallery-module.jpg
 taxonomy:
