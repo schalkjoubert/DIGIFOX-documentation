@@ -1,6 +1,6 @@
 ---
 title: Counter Module
-post_excerpt: The Digifox Counter Module lets you present key numbers, milestones, or achievements in a clear visual row.
+post_excerpt: Display key numbers or milestones in a simple row of counters, with optional icons and layout controls for balance.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/counter-module.jpg
 taxonomy:
