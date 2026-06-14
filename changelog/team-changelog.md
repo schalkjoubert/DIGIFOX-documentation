@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
 
 3.0.4 | 2026-05-10
 * Fix updates overwriting appearance: `style-dynamic.css` is regenerated from **your** Team options when the plugin version changes (and after WP plugin updates), instead of keeping a bundled snapshot that forced portrait layout / wrong crop / stray colours.
