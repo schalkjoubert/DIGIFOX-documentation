@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.4 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
 
 3.0.3 | 2026-05-09
 * Remove `subscribe_setting_text_align` from Subscribe settings and alignment-specific CSS; heading and intro follow theme `.module .head` (center) styles only.
