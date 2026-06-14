@@ -1,6 +1,6 @@
 ---
 title: Hero Module
-post_excerpt: The Digifox Hero Module lets you create the main opening section of a page with strong copy, media, and calls to action.
+post_excerpt: Create a strong page opening with a background image, centered heading and intro, and clear call-to-action buttons.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/hero-module.jpg
 taxonomy:
