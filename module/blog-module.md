@@ -1,6 +1,6 @@
 ---
 title: Blog Module
-post_excerpt: The Digifox Blog Module lets you feature your latest posts or selected articles in a branded blog section.
+post_excerpt: Feature recent or selected posts in a clean grid, with consistent cards and links through to the full article pages.
 image_refresh: "2026-05-08-1128"
 featured_image: _images/blog-module.jpg
 taxonomy:
