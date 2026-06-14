@@ -8,6 +8,9 @@ taxonomy:
 
 ---
 
+1.0.9 | 2026-06-14
+* Update | Version bump to confirm client updates install from the trimmed GitHub release zip (requires 1.0.8+ updater)
+
 1.0.8 | 2026-06-12
 * Update | GitHub release deploy zip excludes dev-only files (`.md`, `.github`, `_images`, `.gitignore`) from client plugin updates
 
