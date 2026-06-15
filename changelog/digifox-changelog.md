@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.23 | 2026-06-14
+* Fix | Include `acf-json/` in GitHub release deploy zip so ACF field groups load on client sites after theme update
+
 3.0.4-beta.22 | 2026-06-14
 * Update | Further Slideshow ACF field group sync (`acf-json/`)
 
