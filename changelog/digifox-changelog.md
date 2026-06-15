@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.21 | 2026-06-14
+* Update | ACF JSON and admin menu mapping for Slideshow rename (`digifox-slider` → `digifox-slideshow` in `acf-json/`, `function-setup.php`)
+
 3.0.4-beta.20 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
