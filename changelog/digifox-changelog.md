@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.25 | 2026-06-16
+* Fix | Dashboard Notices and News widgets are hidden when the digifox.media category feed has no published posts (avoids empty widgets and “feed is down” errors when posts are draft-only) (`assets/functions/function-widget.php`)
+
 3.0.4-beta.24 | 2026-06-15
 * Feature | New branded login screen for all sites: full-viewport background video or image, two-column card (Digifox logo + welcome copy, login form), served at `/login` (`assets/functions/function-login.php`, `assets/css/login-screen.css`)
 * Feature | Login background defaults: `assets/img/login-background.mp4`, or `assets/img/login-background.jpg` when no video; optional overrides via Setup (`setup_login_video`, `setup_login_video_poster`, `setup_login_signup_url`, `setup_login_signup_text` in `acf-json/`)
