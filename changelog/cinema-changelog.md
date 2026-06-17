@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.5.7 | 2026-06-12
+* Fix | YouTube auto posters: when maxresdefault is unavailable YouTube returns a tiny placeholder (not a 404), so posters now fall back to mqdefault on load if the image is narrower than 320px, as well as on error
+
 3.0.1.5.6 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
