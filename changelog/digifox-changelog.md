@@ -7,6 +7,12 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.24 | 2026-06-15
+* Feature | New branded login screen for all sites: full-viewport background video or image, two-column card (Digifox logo + welcome copy, login form), served at `/login` (`assets/functions/function-login.php`, `assets/css/login-screen.css`)
+* Feature | Login background defaults: `assets/img/login-background.mp4`, or `assets/img/login-background.jpg` when no video; optional overrides via Setup (`setup_login_video`, `setup_login_video_poster`, `setup_login_signup_url`, `setup_login_signup_text` in `acf-json/`)
+* Update | Login screen always shows Digifox logo (`assets/img/digifox-logo-login.png`); welcome text uses site title and introduction from Setup
+* Update | Removed legacy black login styles from `function-setup.php`
+
 3.0.4-beta.23 | 2026-06-14
 * Fix | Include `acf-json/` in GitHub release deploy zip so ACF field groups load on client sites after theme update
 
