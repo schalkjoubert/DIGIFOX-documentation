@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.7 | 2026-06-16
+* Fix | Phone, mobile, WhatsApp, and email label textareas render `<br>` line breaks on the front end (`includes/contact-helpers.php`, `public/partials/digifox-contact-display.php`)
+
 3.0.6 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
