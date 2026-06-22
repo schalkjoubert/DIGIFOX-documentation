@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.26 | 2026-06-16
+* Update | Contact ACF: `contact_phone_text`, `contact_mobile_text`, `contact_whatsapp_text`, and `contact_email_text` are textareas with Automatically add `<br>` (`acf-json/group_5e9825d07ca19.json`)
+
 3.0.4-beta.25 | 2026-06-16
 * Fix | Dashboard Notices and News widgets are hidden when the digifox.media category feed has no published posts (avoids empty widgets and “feed is down” errors when posts are draft-only) (`assets/functions/function-widget.php`)
 
