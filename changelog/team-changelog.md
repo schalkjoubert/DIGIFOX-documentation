@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.6 | 2026-06-14
+* Fix | Team social SVG icons use global Setup → Icons colour (`setup_icon`) instead of white fill
+
 3.0.5 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
