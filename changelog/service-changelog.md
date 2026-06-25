@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.6 | 2026-06-14
+* Fix | Slider autoplay, speed, and pagination settings use correct ACF field names (`service_setting_delay`, `service_setting_speed`, `service_setting_pagination`)
+
 3.0.3.5 | 2026-06-14
 * Fix | Equal Heights in slider display mode (uses theme `data-slider-equalize` like Team module)
 
