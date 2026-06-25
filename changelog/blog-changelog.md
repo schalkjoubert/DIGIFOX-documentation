@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3 | 2026-06-25
+* Fix | Front-page module and nav order respect `blog_setting_order` (was hardcoded to priority 999)
+
 3.0.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
