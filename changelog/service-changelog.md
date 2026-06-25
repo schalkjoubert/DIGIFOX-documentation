@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.5 | 2026-06-14
+* Fix | Equal Heights in slider display mode (uses theme `data-slider-equalize` like Team module)
+
 3.0.3.4 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
