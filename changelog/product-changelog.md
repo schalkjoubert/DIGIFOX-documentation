@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5.8 | 2026-06-14
+* Fix | Slider autoplay, speed, and pagination settings use correct ACF field names (`product_setting_delay`, `product_setting_speed`, `product_setting_pagination`)
+
 3.0.5.6 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
