@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.27 | 2026-06-28
+* Feature | Setup **Background Texture** (`setup_texture`): optional seamless pattern tiled over module, header and footer background colours, underneath text and content (`acf-json/group_5d5be147db736.json`, `assets/inc/style-dynamic.php`, `assets/functions/function-setup.php`)
+
 3.0.4-beta.26 | 2026-06-16
 * Update | Contact ACF: `contact_phone_text`, `contact_mobile_text`, `contact_whatsapp_text`, and `contact_email_text` are textareas with Automatically add `<br>` (`acf-json/group_5e9825d07ca19.json`)
 
