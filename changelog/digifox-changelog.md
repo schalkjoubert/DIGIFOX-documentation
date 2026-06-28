@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.29 | 2026-06-28
+* Fix | `#menu` background colour applies on mobile hamburger dropdown only (≤1079px), so desktop nav shows header colour and texture consistently (`assets/inc/style-dynamic.php`)
+
 3.0.4-beta.28 | 2026-06-28
 * Fix | Background Texture no longer overrides header `position: fixed`, so delayed header behaviour works again on the home page (`assets/inc/style-dynamic.php`)
 
