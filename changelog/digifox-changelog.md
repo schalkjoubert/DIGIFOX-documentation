@@ -7,6 +7,10 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.32 | 2026-07-01
+* Feature | Slideshow | Content ACF: per-slide button **Style** / **Colour** for buttons 1 and 2; slide **Title** and **Intro** support basic HTML (`acf-json/group_5e53c5cff26d0.json`)
+* Feature | Slideshow | Settings ACF: **Content alignment** (`slideshow_setting_content_align`) (`acf-json/group_5e53c5b1cb6ec.json`)
+
 3.0.4-beta.31 | 2026-07-01
 * Feature | Shared **module button** variants for CTAs: fill / outline × default / white / black (`assets/functions/function-buttons.php`, `assets/css/module-buttons.css`, enqueued from `assets/functions/function-assets.php`)
 * Feature | Hero | Content ACF: `hero_button_style`, `hero_button_colour`, `hero_button_2_style`, `hero_button_2_colour` (`acf-json/group_669763fe67215.json`)
