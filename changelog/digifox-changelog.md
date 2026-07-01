@@ -7,6 +7,13 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.31 | 2026-07-01
+* Feature | Shared **module button** variants for CTAs: fill / outline × default / white / black (`assets/functions/function-buttons.php`, `assets/css/module-buttons.css`, enqueued from `assets/functions/function-assets.php`)
+* Feature | Hero | Content ACF: `hero_button_style`, `hero_button_colour`, `hero_button_2_style`, `hero_button_2_colour` (`acf-json/group_669763fe67215.json`)
+* Feature | Hero | Settings ACF: **Content alignment** (`hero_setting_content_align`) and **Header offset** label/instructions (`acf-json/group_6697640dc1d5a.json`)
+* Update | Outline + default buttons use Setup **border** colour for text (not button text colour) (`assets/css/module-buttons.css`)
+* Update | Fill white / fill black hover inverts background and text; border keeps its colour; 2px border; subtle lift on hover (`assets/css/module-buttons.css`)
+
 3.0.4-beta.30 | 2026-07-01
 * Feature | **Header offset** support for Hero and Slideshow: when the first module uses full screen (`hero_setting_viewport` / `slideshow_setting_viewport` = No), `.site-content-contain` starts at `top: 0` so content sits under the fixed header (`has-first-module-full-viewport` body class, `assets/css/style.css`, `assets/functions/function-setup.php`)
 * Update | ACF **Header offset** field labels and instructions on Hero and Slideshow settings (`acf-json/group_6697640dc1d5a.json`, `acf-json/group_5e53c5b1cb6ec.json`)
