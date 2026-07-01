@@ -7,6 +7,11 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5 | 2026-07-01
+* Feature | Per-button **Style** and **Colour** for Hero CTAs: fill / outline and default / white / black on button 1 and button 2 (`acf-json/group_669763fe67215.json`, `public/partials/digifox-hero-display.php`)
+* Feature | **Content alignment** setting: left-align hero text and buttons within the site container (`hero_setting_content_align`, `public/partials/digifox-hero-display.php`, `public/css/digifox-hero-public.css`)
+* Update | Hero buttons use theme `digifox_module_button_class()` and shared `module-buttons` styles
+
 3.0.4 | 2026-07-01
 * Feature | **Header offset** setting (`hero_setting_viewport`): Below header vs Full screen — controls whether module height excludes the header and whether the hero starts at the top of the viewport (`acf-json/group_6697640dc1d5a.json`, `public/partials/digifox-hero-display.php`, `public/js/digifox-hero-public.js`)
 * Update | Full screen mode adds `module-viewport-full` class; height JS applies to all height percentages when offset is Below header
