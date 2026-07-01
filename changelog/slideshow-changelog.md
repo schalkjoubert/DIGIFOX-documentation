@@ -7,6 +7,11 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.6 | 2026-07-01
+* Feature | Slide **Title** and **Intro** support basic HTML (e.g. `<span class="yellow">highlight</span>`) via `wp_kses_post()` (`public/partials/digifox-slideshow-display.php`, `acf-json/group_5e53c5cff26d0.json`)
+* Update | Intro field changed to textarea; maxlength removed on title and intro for HTML markup
+* Update | Built-in `.yellow` highlight colour on slide content (`public/css/digifox-slideshow-public.css`)
+
 3.0.5 | 2026-07-01
 * Feature | Per-slide **Style** and **Colour** for CTA buttons 1 and 2: fill / outline and default / white / black (`acf-json/group_5e53c5cff26d0.json`, `public/partials/digifox-slideshow-display.php`)
 * Feature | **Content alignment** setting: left-align slide text and buttons within the site container (`slideshow_setting_content_align`, `acf-json/group_5e53c5b1cb6ec.json`, `public/css/digifox-slideshow-public.css`)
