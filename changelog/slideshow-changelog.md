@@ -7,7 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
----
+3.0.4 | 2026-07-01
+* Feature | **Header offset** setting (`slideshow_setting_viewport`): Below header vs Full screen — same behaviour as Hero; natural-crop height driven by JS for all percentages (`acf-json/group_5e53c5b1cb6ec.json`, `public/partials/digifox-slideshow-display.php`, `public/js/digifox-slideshow-height.js`, `public/inc/style-dynamic.php`)
+* Update | Full screen mode adds `module-viewport-full` class; removed fixed `vh` height for natural crop in favour of header-aware JS
+
 3.0.3 | 2026-06-14
 * Update | Rename plugin identity from `digifox-slider` to `digifox-slideshow` (GitHub repo, updater slug, admin menu slug, text domain)
 
