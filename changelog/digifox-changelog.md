@@ -7,6 +7,11 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.30 | 2026-07-01
+* Feature | **Header offset** support for Hero and Slideshow: when the first module uses full screen (`hero_setting_viewport` / `slideshow_setting_viewport` = No), `.site-content-contain` starts at `top: 0` so content sits under the fixed header (`has-first-module-full-viewport` body class, `assets/css/style.css`, `assets/functions/function-setup.php`)
+* Update | ACF **Header offset** field labels and instructions on Hero and Slideshow settings (`acf-json/group_6697640dc1d5a.json`, `acf-json/group_5e53c5b1cb6ec.json`)
+* Update | Header offset field hidden in Hero/Slideshow admin when Setup → Delay Header is Yes (`acf/prepare_field` in `assets/functions/function-setup.php`)
+
 3.0.4-beta.29 | 2026-06-28
 * Fix | `#menu` background colour applies on mobile hamburger dropdown only (≤1079px), so desktop nav shows header colour and texture consistently (`assets/inc/style-dynamic.php`)
 
