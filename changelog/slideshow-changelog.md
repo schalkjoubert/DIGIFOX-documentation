@@ -7,6 +7,11 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5 | 2026-07-01
+* Feature | Per-slide **Style** and **Colour** for CTA buttons 1 and 2: fill / outline and default / white / black (`acf-json/group_5e53c5cff26d0.json`, `public/partials/digifox-slideshow-display.php`)
+* Feature | **Content alignment** setting: left-align slide text and buttons within the site container (`slideshow_setting_content_align`, `acf-json/group_5e53c5b1cb6ec.json`, `public/css/digifox-slideshow-public.css`)
+* Update | Slide buttons use theme `digifox_module_button_class()` and shared `module-buttons` styles
+
 3.0.4 | 2026-07-01
 * Feature | **Header offset** setting (`slideshow_setting_viewport`): Below header vs Full screen — same behaviour as Hero; natural-crop height driven by JS for all percentages (`acf-json/group_5e53c5b1cb6ec.json`, `public/partials/digifox-slideshow-display.php`, `public/js/digifox-slideshow-height.js`, `public/inc/style-dynamic.php`)
 * Update | Full screen mode adds `module-viewport-full` class; removed fixed `vh` height for natural crop in favour of header-aware JS
