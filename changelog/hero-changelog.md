@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.4 | 2026-07-01
+* Feature | **Header offset** setting (`hero_setting_viewport`): Below header vs Full screen — controls whether module height excludes the header and whether the hero starts at the top of the viewport (`acf-json/group_6697640dc1d5a.json`, `public/partials/digifox-hero-display.php`, `public/js/digifox-hero-public.js`)
+* Update | Full screen mode adds `module-viewport-full` class; height JS applies to all height percentages when offset is Below header
+
 3.0.3 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
