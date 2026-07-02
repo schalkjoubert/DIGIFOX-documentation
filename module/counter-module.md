@@ -7,8 +7,8 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.1
-    module_updated: "8 May 2026"
+    module_version: 3.0.3
+    module_updated: "2 Jul 2026"
 
 ---
 
@@ -58,11 +58,38 @@ A number that controls where this module appears among other homepage modules (l
 **Menu**
 Optional label in the navigation with jump links that scroll to this module.
 
-**Background**
-Applies the theme background treatment when enabled. The color is set in <code>Setup</code>. Options include <code>Yes</code>, <code>No</code>.
+**Columns**
+Number of counter cards per row on desktop (1–5). Extra cards wrap to the next row.
+
+**Gap**
+Space between counter cards in pixels.
+
+**Padding**
+Inner padding on card text areas.
+
+**Card Max Width**
+Maximum card width in portrait layout (300–600px).
+
+**Image Radius**
+Border radius on card images as a percentage. Set to -1 to use the global Setup image radius.
+
+**Image Crop**
+When images are used, crop to display with equal heights. Options include <code>Natural</code>, <code>4:3</code>, <code>1:1</code>.
+
+**Layout**
+Card orientation: <code>Portrait</code> (stacked) or <code>Landscape</code> (image and text side by side).
+
+**Text Align**
+Align card text and artwork. Options include <code>Left</code>, <code>Center</code>.
 
 **Border**
 Adds a visible border when enabled. The color is set in <code>Setup</code>. Options include <code>Yes</code>, <code>No</code>.
+
+**Background**
+Applies the theme background treatment when enabled. The color is set in <code>Setup</code>. Options include <code>Yes</code>, <code>No</code>.
+
+**Equal Heights**
+When enabled, card titles and descriptions align to equal heights within each row.
 
 **Custom Style**
 Advanced option: set to <code>Yes</code> to unlock the extra CSS field for custom style tweaks. Options include <code>Yes</code>, <code>No</code>.
