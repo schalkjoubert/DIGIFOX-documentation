@@ -7,6 +7,11 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.40 | 2026-06-12
+* Fix | **Delay Header**: header fully hidden off-screen on home until scroll (`transform: translateY(-100%)`); fixes mobile peek when header is taller than the old fixed `-50px` offset (`assets/inc/style-dynamic.php`, `assets/css/style-dynamic.css`)
+* Fix | Mobile full-screen Hero: content vertically centred below the measured header (`assets/css/style.css`, hero plugin CSS)
+* Update | Slideshow Image Crop ACF note: 4:3 / 16:9 kept on mobile; slide grows taller when content needs more height (`acf-json/group_5e53c5b1cb6ec.json`)
+
 3.0.4-beta.36 | 2026-07-03
 * Fix | Mobile full-screen Slideshow/Hero header clearance: left-aligned slide content no longer vertically centres under the logo; selectors use module `data-*-viewport` attributes (`assets/css/style.css`, `assets/scss/_style-header.scss`)
 
