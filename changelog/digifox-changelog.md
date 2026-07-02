@@ -7,6 +7,10 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.34 | 2026-07-03
+* Feature | Counter | Content ACF: optional **Suffix** after the counter value; **Number** optional (`counter_suffix`, `counter_number` in `acf-json/group_601d960c252d1.json`)
+* Feature | Counter | Settings ACF: grid layout controls — **Columns**, **Gap**, **Padding**, **Card Max Width**, **Image Radius**, **Image Crop**, **Layout**, **Text Align**, **Equal Heights** (`acf-json/group_601d960487080.json`)
+
 3.0.4-beta.33 | 2026-07-02
 * Feature | One-page nav scroll spy marks the active section (`is-current` on `#menu li`; `assets/js/digifox-menu.js`, enqueued from `assets/functions/function-assets.php` on the front page when menu underline is enabled)
 * Feature | Setup ACF: **Show Home in Menu** (`setup_setting_header_home`; `digifox_show_header_home_menu()` in `assets/functions/function-setup.php`, `header.php`)
