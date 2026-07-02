@@ -7,6 +7,15 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.8 | 2026-06-12
+* Fix | Mobile full-screen slides (**Header offset** = Full screen, **Delay Header** = No): two-row grid vertically centres content in the area below the measured header (`--digifox-header-offset` via JS); left-aligned slides included
+* Fix | Mobile **Delay Header**: header fully hidden until scroll (`transform: translateY(-100%)` in theme dynamic CSS); slideshow at 100% height fills the viewport and centres content in the full slide
+* Fix | Mobile 4:3 / 16:9: aspect ratio kept; slide `min-height` grows when content + header clearance need more height (no empty band below the slide)
+* Update | Left-aligned slide content padding `3em` top/bottom; responsive title/intro typography on mobile (`public/css/digifox-slideshow-public.css`, `public/js/digifox-slideshow-height.js`)
+
+3.0.7 | 2026-07-03
+* Fix | Mobile full-screen slides (4:3 / 16:9): slide text clears the fixed header when **Header offset** is Full screen and **Delay Header** is No — uses `data-slideshow-viewport` / `data-slideshow-header-delay`; fixes left-aligned content that was still vertically centred (`public/css/digifox-slideshow-public.css`)
+
 3.0.6 | 2026-07-01
 * Feature | Slide **Title** and **Intro** support basic HTML (e.g. `<span class="yellow">highlight</span>`) via `wp_kses_post()` (`public/partials/digifox-slideshow-display.php`, `acf-json/group_5e53c5cff26d0.json`)
 * Update | Intro field changed to textarea; maxlength removed on title and intro for HTML markup
@@ -26,11 +35,7 @@ taxonomy:
 
 3.0.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
-
-
-
-3.0.2 | 2026-05-08
-* Add public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site.
+* Add | Public module documentation page, featured image, and GitHub Actions sync workflow for the Digifox documentation site
 
 3.0.1 | 2026-04-25
 * Fix | Use theme module-link resolver (no dependency on Banner plugin)
