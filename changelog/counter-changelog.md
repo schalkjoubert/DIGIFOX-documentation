@@ -7,6 +7,12 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3 | 2026-07-02
+* Feature | Settings ACF: grid layout controls — **Columns**, **Gap**, **Padding**, **Card Max Width**, **Image Radius**, **Image Crop**, **Layout**, **Text Align**, **Equal Heights** (`acf-json/group_601d960487080.json` in theme)
+* Update | Dynamic grid styles ported from Service module (`public/inc/style-dynamic.php`, `public/css/digifox-counter-public.css`)
+* Update | Equal heights toggle via `counter_setting_height` (`public/js/digifox-counter-public.js`, `public/class-digifox-counter-public.php`)
+* Update | Legacy fallback when **Columns** is unset: desktop column count matches the number of counter cards (capped at 5) via `digifox_counter_grid_columns()` (`digifox-counter.php`)
+
 3.0.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
