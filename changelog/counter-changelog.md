@@ -7,6 +7,11 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.4 | 2026-07-03
+* Feature | Content ACF: optional **Suffix** text after the counter value (`counter_suffix` in `acf-json/group_601d960c252d1.json`)
+* Update | **Number** is optional — cards can show title, description, and suffix without an animated count (`public/partials/digifox-counter-display.php`)
+* Update | Counter value markup: `.counter-value` wraps animated number and suffix (`.counter-suffix`) (`public/css/digifox-counter-public.css`)
+
 3.0.3 | 2026-07-02
 * Feature | Settings ACF: grid layout controls — **Columns**, **Gap**, **Padding**, **Card Max Width**, **Image Radius**, **Image Crop**, **Layout**, **Text Align**, **Equal Heights** (`acf-json/group_601d960487080.json` in theme)
 * Update | Dynamic grid styles ported from Service module (`public/inc/style-dynamic.php`, `public/css/digifox-counter-public.css`)
