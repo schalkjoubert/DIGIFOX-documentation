@@ -7,10 +7,13 @@ taxonomy:
     post_tag: changelog
 
 ---
-3.0.3.6 | 2026-06-14
+3.0.3.7 | 2026-07-02
+* Update | Landscape card layout uses `grid-template-columns: 1fr 2fr` (`public/inc/style-dynamic.php`)
+
+3.0.3.6 | 2026-06-25
 * Fix | Slider autoplay, speed, and pagination settings use correct ACF field names (`service_setting_delay`, `service_setting_speed`, `service_setting_pagination`)
 
-3.0.3.5 | 2026-06-14
+3.0.3.5 | 2026-06-25
 * Fix | Equal Heights in slider display mode (uses theme `data-slider-equalize` like Team module)
 
 3.0.3.4 | 2026-06-14
