@@ -7,6 +7,10 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.35 | 2026-07-03
+* Fix | Mobile full-screen Hero/Slideshow: text content clears the fixed header when **Delay Header** is No — padding-top matches `--digifox-header-large` (70px on ≤480px, 120px otherwise); applies to Slideshow 4:3/16:9 crop and Hero (`assets/css/style.css`, `assets/scss/_style-header.scss`)
+* Feature | Body class `has-header-delay` when Setup → Delay Header is Yes (`assets/functions/function-setup.php`)
+
 3.0.4-beta.34 | 2026-07-03
 * Feature | Counter | Content ACF: optional **Suffix** after the counter value; **Number** optional (`counter_suffix`, `counter_number` in `acf-json/group_601d960c252d1.json`)
 * Feature | Counter | Settings ACF: grid layout controls — **Columns**, **Gap**, **Padding**, **Card Max Width**, **Image Radius**, **Image Crop**, **Layout**, **Text Align**, **Equal Heights** (`acf-json/group_601d960487080.json`)
