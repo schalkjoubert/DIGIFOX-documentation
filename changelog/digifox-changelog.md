@@ -7,6 +7,12 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.33 | 2026-07-02
+* Feature | One-page nav scroll spy marks the active section (`is-current` on `#menu li`; `assets/js/digifox-menu.js`, enqueued from `assets/functions/function-assets.php` on the front page when menu underline is enabled)
+* Feature | Setup ACF: **Show Home in Menu** (`setup_setting_header_home`; `digifox_show_header_home_menu()` in `assets/functions/function-setup.php`, `header.php`)
+* Feature | Setup ACF: **Menu underline** (`setup_setting_header_menu_underline`; `digifox_header_menu_underline_enabled()`, body class `has-header-menu-underline` in `assets/functions/function-setup.php`; `acf-json/group_5d5be147db736.json`)
+* Update | Desktop header nav: active and hover underline via border-bottom (CTA excluded); CTA padding `5px 8px`; underline bottom-aligned with CTA (`assets/css/style.css`)
+
 3.0.4-beta.32 | 2026-07-01
 * Feature | Slideshow | Content ACF: per-slide button **Style** / **Colour** for buttons 1 and 2; slide **Title** and **Intro** support basic HTML (`acf-json/group_5e53c5cff26d0.json`)
 * Feature | Slideshow | Settings ACF: **Content alignment** (`slideshow_setting_content_align`) (`acf-json/group_5e53c5b1cb6ec.json`)
