@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.36 | 2026-07-03
+* Fix | Mobile full-screen Slideshow/Hero header clearance: left-aligned slide content no longer vertically centres under the logo; selectors use module `data-*-viewport` attributes (`assets/css/style.css`, `assets/scss/_style-header.scss`)
+
 3.0.4-beta.35 | 2026-07-03
 * Fix | Mobile full-screen Hero/Slideshow: text content clears the fixed header when **Delay Header** is No — padding-top matches `--digifox-header-large` (70px on ≤480px, 120px otherwise); applies to Slideshow 4:3/16:9 crop and Hero (`assets/css/style.css`, `assets/scss/_style-header.scss`)
 * Feature | Body class `has-header-delay` when Setup → Delay Header is Yes (`assets/functions/function-setup.php`)
