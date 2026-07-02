@@ -7,8 +7,8 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.3
-    module_updated: "2 Jul 2026"
+    module_version: 3.0.4
+    module_updated: "3 Jul 2026"
 
 ---
 
@@ -36,7 +36,10 @@ The primary title for this item.
 Optional longer text for this section. Use it when visitors need more context than the intro provides.
 
 **Number**
-Sets the number value for this stats counter.
+Optional animated value for this stats counter. Leave empty when you only want title, description, or suffix text.
+
+**Suffix**
+Optional text shown after the number, for example <code>Coffees</code> or <code>+</code>.
 
 **Image or Icon**
 Optional image used by this item or section. Use consistent image sizes where possible for a cleaner layout. Options include <code>Icon</code>, <code>Image</code>, <code>None</code>.
