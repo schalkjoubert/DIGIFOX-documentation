@@ -7,6 +7,10 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.41 | 2026-07-15
+* Feature | Card module title fields: ACF instructions document optional `<br>` line breaks (Services, Products, Projects, Cinema, Counter, Team, Review, Question)
+* Update | Card title fields remain optional / not required where previously adjusted in ACF JSON
+
 3.0.4-beta.40 | 2026-06-12
 * Fix | **Delay Header**: header fully hidden off-screen on home until scroll (`transform: translateY(-100%)`); fixes mobile peek when header is taller than the old fixed `-50px` offset (`assets/inc/style-dynamic.php`, `assets/css/style-dynamic.css`)
 * Fix | Mobile full-screen Hero: content vertically centred below the measured header (`assets/css/style.css`, hero plugin CSS)
