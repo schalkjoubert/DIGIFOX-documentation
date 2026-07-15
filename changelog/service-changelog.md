@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.8 | 2026-07-15
+* Feature | Card title and subtitle allow intentional line breaks via `<br>` (`wp_kses`)
+
 3.0.3.7 | 2026-07-02
 * Update | Landscape card layout uses `grid-template-columns: 1fr 2fr` (`public/inc/style-dynamic.php`)
 
