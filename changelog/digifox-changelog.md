@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.44 | 2026-07-17
+* Fix | **Digifox Demos** admin menu no longer sorted as an inactive module — appears after Setup / Entries, above Active or Inactive Modules headings (`digifox_admin_utility_menu_slugs()` in `function-setup.php`)
+
 3.0.4-beta.43 | 2026-07-17
 * Update | Admin menu order: **Digifox Demos** appears after Setup / Entries when Demo Importer plugin is active (`digifox-demo-importer`)
 
