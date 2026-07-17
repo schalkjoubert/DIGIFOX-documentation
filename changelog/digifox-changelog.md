@@ -7,6 +7,12 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.43 | 2026-07-17
+* Update | Admin menu order: **Digifox Demos** appears after Setup / Entries when Demo Importer plugin is active (`digifox-demo-importer`)
+
+3.0.4-beta.42 | 2026-07-16
+* Fix | Module Custom Style: bare properties, `#module-id`, `&`, and `{ … }` correctly apply to the module root (e.g. custom background), while nested selectors like `.box` stay scoped inside the module (`digifox_scope_module_custom_css` in `assets/functions/function-helpers.php`)
+
 3.0.4-beta.41 | 2026-07-15
 * Feature | Card module title fields: ACF instructions document optional `<br>` line breaks (Services, Products, Projects, Cinema, Counter, Team, Review, Question)
 * Update | Card title fields remain optional / not required where previously adjusted in ACF JSON
