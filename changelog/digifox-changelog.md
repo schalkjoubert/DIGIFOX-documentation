@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.45 | 2026-07-18
+* Feature | Show the standard WordPress **Posts** menu to Editors whenever the Blog plugin is active (independent of the Blog module's Active setting); place Posts with utility content menus above module headings
+
 3.0.4-beta.44 | 2026-07-17
 * Fix | **Digifox Demos** admin menu no longer sorted as an inactive module — appears after Setup / Entries, above Active or Inactive Modules headings (`digifox_admin_utility_menu_slugs()` in `function-setup.php`)
 
