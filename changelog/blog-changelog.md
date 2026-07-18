@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.4 | 2026-07-18
+* Feature | When the Blog plugin is active, Editors can use the standard WordPress Posts menu (All Posts, Add New, Categories and Tags)
+* Feature | Posts list notice explains that articles feed the Digifox Blog module, with links to Blog settings and Add New Post
+
 3.0.3 | 2026-06-25
 * Fix | Front-page module and nav order respect `blog_setting_order` (was hardcoded to priority 999)
 
