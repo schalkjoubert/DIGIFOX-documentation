@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.46 | 2026-07-19
+* Fix | Header menu CTA border uses `currentColor` so it matches the header nav text colour (not Setup button border)
+
 3.0.4-beta.45 | 2026-07-18
 * Feature | Show the standard WordPress **Posts** menu to Editors whenever the Blog plugin is active (independent of the Blog module's Active setting); place Posts with utility content menus above module headings
 
