@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.47 | 2026-07-19
+* Feature | ACF field groups for Digifox Notice module (`Notice | Content`, `Notice | Settings`) — dismissible top banner above the header
+
 3.0.4-beta.46 | 2026-07-19
 * Fix | Header menu CTA border uses `currentColor` so it matches the header nav text colour (not Setup button border)
 
