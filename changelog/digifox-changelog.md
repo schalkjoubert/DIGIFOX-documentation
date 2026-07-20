@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.48 | 2026-07-20
+* Fix | Semi-transparent `.header.large` only when the first Hero/Slideshow uses **Full screen**; **Below header** keeps the solid Setup header colour (`has-first-module-full-viewport`, `assets/inc/style-dynamic.php`)
+
 3.0.4-beta.47 | 2026-07-19
 * Feature | ACF field groups for Digifox Notice module (`Notice | Content`, `Notice | Settings`) — dismissible top banner above the header
 
