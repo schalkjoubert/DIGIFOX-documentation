@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.49 | 2026-07-20
+* Fix | Below-header mode forces solid Setup header colour on `.header.large` (beats Custom Style opacity); Custom Style `.header.large` rules are auto-scoped to full-screen only
+
 3.0.4-beta.48 | 2026-07-20
 * Fix | Semi-transparent `.header.large` only when the first Hero/Slideshow uses **Full screen**; **Below header** keeps the solid Setup header colour (`has-first-module-full-viewport`, `assets/inc/style-dynamic.php`)
 
