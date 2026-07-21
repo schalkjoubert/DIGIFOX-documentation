@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.9 | 2026-07-21
+* Fix | Slide backgrounds used WordPress **large** (max ~1024px), so 1920×1080 uploads looked soft; now use **digifox_slideshow** (1920×1080 soft) with fallback to **full** (`public/partials/digifox-slideshow-display.php`, `digifox-slideshow.php`)
+
 3.0.8 | 2026-06-12
 * Fix | Mobile full-screen slides (**Header offset** = Full screen, **Delay Header** = No): two-row grid vertically centres content in the area below the measured header (`--digifox-header-offset` via JS); left-aligned slides included
 * Fix | Mobile **Delay Header**: header fully hidden until scroll (`transform: translateY(-100%)` in theme dynamic CSS); slideshow at 100% height fills the viewport and centres content in the full slide
