@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.55 | 2026-07-21
+* Update | Gallery thumb size `digifox_gallery_thumb` raised from 220×165 to 800×600 (4:3 hard crop) so grid images stay sharp on retina (`assets/functions/function-media.php`)
+
 3.0.4-beta.54 | 2026-07-21
 * Update | Header Background opacity from Setup is used as-is on `.header.large` when Hero/Slideshow is Full screen; solid RGB is used for below-header and scrolled headers (no hardcoded 0.2 alpha)
 
