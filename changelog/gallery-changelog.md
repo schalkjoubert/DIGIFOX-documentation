@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.4 | 2026-07-21
+* Fix | Grid thumbnails were soft: used 220×165 `digifox_gallery_thumb` with `sizes="220px"`; now use a sharp size (800×600 thumb when available, else WordPress **large**) and responsive `sizes` for the 4-column grid (`public/partials/digifox-gallery-display.php`)
+
 3.0.1.3 | 2026-07-21
 * Fix | Gallery Custom Style (and gap/border/background) printed inline on the front end so rules like `.grid-gallery { grid-template-columns: repeat(3, 1fr); }` apply reliably; removed hardcoded 5-column override from public CSS
 
