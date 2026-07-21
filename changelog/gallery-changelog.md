@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.3 | 2026-07-21
+* Fix | Gallery Custom Style (and gap/border/background) printed inline on the front end so rules like `.grid-gallery { grid-template-columns: repeat(3, 1fr); }` apply reliably; removed hardcoded 5-column override from public CSS
+
 3.0.1.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
