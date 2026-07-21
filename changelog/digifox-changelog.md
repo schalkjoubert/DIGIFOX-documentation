@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.51 | 2026-07-21
+* Fix | Module content textarea fields use **Automatically add `<br>`** so keyboard Enter line breaks render on the front end (CSS/code textareas unchanged)
+
 3.0.4-beta.50 | 2026-07-21
 * Feature | Dashboard widget **User activity** (administrators only): currently logged-in users (active in the last 15 minutes) and last login for each user
 
