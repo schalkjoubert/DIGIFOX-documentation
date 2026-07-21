@@ -7,6 +7,12 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.53 | 2026-07-21
+* Fix | Full-screen Hero/Slideshow now auto-applies a translucent Setup header colour on `.header.large` (no Custom Style required); Below header stays solid. Save Setup once on each site to regenerate `style-dynamic.css`
+
+3.0.4-beta.52 | 2026-07-21
+* Feature | Setup → **Button (text hover)** colour for default CTA / Gravity Forms button hover text (`setup_button_txt_hover`)
+
 3.0.4-beta.51 | 2026-07-21
 * Fix | Module content textarea fields use **Automatically add `<br>`** so keyboard Enter line breaks render on the front end (CSS/code textareas unchanged)
 
