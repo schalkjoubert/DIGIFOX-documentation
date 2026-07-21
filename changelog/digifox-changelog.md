@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.54 | 2026-07-21
+* Update | Header Background opacity from Setup is used as-is on `.header.large` when Hero/Slideshow is Full screen; solid RGB is used for below-header and scrolled headers (no hardcoded 0.2 alpha)
+
 3.0.4-beta.53 | 2026-07-21
 * Fix | Full-screen Hero/Slideshow now auto-applies a translucent Setup header colour on `.header.large` (no Custom Style required); Below header stays solid. Save Setup once on each site to regenerate `style-dynamic.css`
 
