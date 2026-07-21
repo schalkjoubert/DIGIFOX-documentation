@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.9 | 2026-07-21
+* Fix | Contact Intro (and other textareas) render Enter line breaks as real HTML `<br>`, not visible `&lt;br /&gt;` text
+* Fix | Contact Custom Style is printed inline on the front end so icon colour rules (e.g. `.digifox-icon-foreground`) reliably override the default white glyph colour
+
 3.0.8 | 2026-07-01
 * Feature | Optional **header CTA button** in the main navigation (`contact_button`, `contact_link_module` ACF in theme; `nav_contact_cta()` on `digifox_nav_cta` hook in `digifox-contact.php`, `includes/contact-helpers.php`)
 * Update | CTA scrolls to the selected active module anchor (defaults to Contact when the chosen module is inactive)
