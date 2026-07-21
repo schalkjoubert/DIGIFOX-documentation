@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.10 | 2026-07-21
+* Fix | Overlay / text / Custom Style no longer read from packaged `style-dynamic.css` (plugin updates replaced site colours); always apply live ACF values via inline CSS (`public/class-digifox-slideshow-public.php`)
+
 3.0.9 | 2026-07-21
 * Fix | Slide backgrounds used WordPress **large** (max ~1024px), so 1920×1080 uploads looked soft; now use **digifox_slideshow** (1920×1080 soft) with fallback to **full** (`public/partials/digifox-slideshow-display.php`, `digifox-slideshow.php`)
 
