@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+1.0.10 | 2026-06-14
+* Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
+
+
 
 1.0.9 | 2026-06-14
 * Update | Version bump to confirm client updates install from the trimmed GitHub release zip (requires 1.0.8+ updater)
