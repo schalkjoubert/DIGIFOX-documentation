@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.5 | 2026-07-21
+* Fix | Gallery grid thumbs are equal 4:3 cells again (`aspect-ratio` + `object-fit: cover`) so mixed source ratios no longer create uneven row heights (`public/css/digifox-gallery-public.css`)
+
 3.0.1.4 | 2026-07-21
 * Fix | Grid thumbnails were soft: used 220×165 `digifox_gallery_thumb` with `sizes="220px"`; now use a sharp size (800×600 thumb when available, else WordPress **large**) and responsive `sizes` for the 4-column grid (`public/partials/digifox-gallery-display.php`)
 
