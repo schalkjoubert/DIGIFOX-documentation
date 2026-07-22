@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.9 | 2026-07-22
+* Fix | Slider equal-height also includes **name** and **title** (not only description/social), so two-line names/titles keep cards aligned (`public/partials/digifox-team-display.php`)
+
 3.0.8 | 2026-07-22
 * Fix | **Landscape** layout stacks as portrait below 480px (photo above text) so cards stay readable on small phones (`public/inc/style-dynamic.php`)
 * Fix | A single team card is centered in grid and slider layouts (`public/partials/digifox-team-display.php`, `public/inc/style-dynamic.php`)
