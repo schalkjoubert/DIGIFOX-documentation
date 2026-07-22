@@ -90,3 +90,6 @@ Sets the overlay value for this call-to-action banner.
 
 **Parallax**
 Choose one of the available options: <code>Yes</code>, <code>No</code>.
+
+**Custom Style**
+Optional CSS for this module only (scoped to <code>.module-banner</code>). Options include <code>Yes</code>, <code>No</code>.
