@@ -8,6 +8,12 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.0.6 | 2026-07-22
+* Fix | Banner opacity overlay sits above Setup **Background Texture** (and below text/buttons): overlay moved off the background stack onto `.banner-overlay` (`public/partials/digifox-banner-display.php`)
+
+3.0.0.5 | 2026-07-22
+* Feature | **Custom Style** setting (Yes/No + CSS textarea), scoped to `.module-banner` like other Digifox modules (`public/class-digifox-banner-public.php`, `digifox-banner.php`)
+
 3.0.0.4 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
