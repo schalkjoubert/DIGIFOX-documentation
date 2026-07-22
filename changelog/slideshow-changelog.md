@@ -7,6 +7,12 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.13 | 2026-07-22
+* Fix | Custom Style now scoped under `.module-slider` with `!important` (via `digifox_scope_module_custom_css`) so it can override Setup `.button` colours (`public/inc/style-dynamic.php`)
+
+3.0.12 | 2026-07-22
+* Fix | Fade mode no longer stacks slides vertically (big gap / second slide below); absolute overlay beats slideshow `position: relative` on `.slider-item` (`public/css/digifox-slideshow-public.css`, `public/inc/style-dynamic.php`)
+
 3.0.11 | 2026-07-22
 * Fix | Transition = Fade now fades instead of always sliding; passes `data-slider-effect` from `slideshow_animation` (`public/partials/digifox-slideshow-display.php`; theme `digifox-slider.js`)
 
