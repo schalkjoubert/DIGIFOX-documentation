@@ -7,6 +7,15 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.58 | 2026-07-22
+* Update | Smooth scroll to modules also applies to in-page buttons (same behaviour as the menu) (`assets/js/script.js`)
+
+3.0.4-beta.57 | 2026-07-22
+* Update | Under construction logo capped at `max-width: 360px` with `height: auto` (`assets/css/style-under-construction.css`)
+
+3.0.4-beta.56 | 2026-07-21
+* Feature | Gallery Settings **Columns** control restored (`gallery_setting_grid_column`, 2–6); Custom Style field renamed to `gallery_setting_css` (`acf-json/group_5ea158a236e97.json`)
+
 3.0.4-beta.55 | 2026-07-21
 * Update | Gallery thumb size `digifox_gallery_thumb` raised from 220×165 to 800×600 (4:3 hard crop) so grid images stay sharp on retina (`assets/functions/function-media.php`)
 
