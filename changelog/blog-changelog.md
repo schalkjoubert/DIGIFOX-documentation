@@ -7,6 +7,15 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.9 | 2026-07-22
+* Fix | **Padding** applies to card text (`.item-txt`) like Service/Product, not the outer grid (`public/css/digifox-blog.css`, `public/partials/digifox-blog-display.php`)
+
+3.0.8 | 2026-07-22
+* Fix | **Excerpt** Yes/No and **Meta** Top/Bottom/None now applied on module cards (`public/partials/digifox-blog-display.php`)
+
+3.0.7 | 2026-07-22
+* Fix | Landscape card images use natural height (`height: auto`) instead of stretching to match the text column (`public/css/digifox-blog.css`)
+
 3.0.6 | 2026-07-22
 * Fix | Layout = Landscape places image and text side-by-side from 480px up; stays portrait stacked on small mobile (`public/partials/digifox-blog-display.php`, `public/css/digifox-blog.css`)
 
