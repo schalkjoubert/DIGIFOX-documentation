@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.11 | 2026-07-22
+* Fix | Transition = Fade now fades instead of always sliding; passes `data-slider-effect` from `slideshow_animation` (`public/partials/digifox-slideshow-display.php`; theme `digifox-slider.js`)
+
 3.0.10 | 2026-07-21
 * Fix | Overlay / text / Custom Style no longer read from packaged `style-dynamic.css` (plugin updates replaced site colours); always apply live ACF values via inline CSS (`public/class-digifox-slideshow-public.php`)
 
