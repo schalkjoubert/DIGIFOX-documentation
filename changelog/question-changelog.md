@@ -7,6 +7,12 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.0.4 | 2026-07-22
+* Fix | FAQ item borders use Digifox Setup **Border** colour (same as cards) instead of hardcoded `#ccc`; Border = No removes the outline (`public/css/digifox-question-public.css`, `public/inc/style-dynamic.php`)
+
+3.0.0.3 | 2026-07-15
+* Feature | Question title allows intentional line breaks via `<br>` (`wp_kses`)
+
 3.0.0.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
