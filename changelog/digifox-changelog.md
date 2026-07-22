@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.59 | 2026-07-22
+* Fix | Front-end favicon falls back to the black Digifox icon (same as wp-admin) when Setup favicon / Site Icon is empty (`assets/functions/_function-core-seo.php`)
+
 3.0.4-beta.58 | 2026-07-22
 * Update | Smooth scroll to modules also applies to in-page buttons (same behaviour as the menu) (`assets/js/script.js`)
 
