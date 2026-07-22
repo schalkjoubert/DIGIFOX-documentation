@@ -7,6 +7,12 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.6 | 2026-07-22
+* Fix | Layout = Landscape places image and text side-by-side from 480px up; stays portrait stacked on small mobile (`public/partials/digifox-blog-display.php`, `public/css/digifox-blog.css`)
+
+3.0.5 | 2026-07-22
+* Fix | Card **Border** and **Background** settings now apply (were unused); Custom Style also wired via inline CSS (`public/inc/style-dynamic.php`)
+
 3.0.4 | 2026-07-18
 * Feature | When the Blog plugin is active, Editors can use the standard WordPress Posts menu (All Posts, Add New, Categories and Tags)
 * Feature | Posts list notice explains that articles feed the Digifox Blog module, with links to Blog settings and Add New Post
