@@ -7,7 +7,14 @@ taxonomy:
     post_tag: changelog
 
 ---
-3.0.6 | 2026-06-14
+3.0.8 | 2026-07-22
+* Fix | **Landscape** layout stacks as portrait below 480px (photo above text) so cards stay readable on small phones (`public/inc/style-dynamic.php`)
+* Fix | A single team card is centered in grid and slider layouts (`public/partials/digifox-team-display.php`, `public/inc/style-dynamic.php`)
+
+3.0.7 | 2026-07-15
+* Feature | Member name and title allow intentional line breaks via `<br>` (`wp_kses`)
+
+3.0.6 | 2026-06-25
 * Fix | Team social SVG icons use global Setup → Icons colour (`setup_icon`) instead of white fill
 
 3.0.5 | 2026-06-14
