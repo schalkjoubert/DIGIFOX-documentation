@@ -7,6 +7,18 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.63 | 2026-07-22
+* Fix | Digifox slider respects Fade vs Slide (`data-slider-effect`); fade stacks slides with opacity instead of `translateX` (`assets/js/digifox-slider.js`, `assets/css/digifox-slider.css`)
+
+3.0.4-beta.62 | 2026-07-22
+* Feature | Subscribe Settings **Custom Style** fields (`subscribe_setting_style`, `subscribe_setting_css`) (`acf-json/group_5d8db9a637575.json`)
+
+3.0.4-beta.61 | 2026-07-22
+* Feature | Banner Settings **Custom Style** fields (`banner_setting_style`, `banner_setting_css`) (`acf-json/group_63ac16ce2fbb3.json`)
+
+3.0.4-beta.60 | 2026-07-22
+* Fix | Setup **Background Texture** tiles at a max 400px size (`background-size` + `repeat`) so large uploads no longer look stretched (`assets/inc/style-dynamic.php`)
+
 3.0.4-beta.59 | 2026-07-22
 * Fix | Front-end favicon falls back to the black Digifox icon (same as wp-admin) when Setup favicon / Site Icon is empty (`assets/functions/_function-core-seo.php`)
 
