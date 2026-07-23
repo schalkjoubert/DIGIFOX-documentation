@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5 | 2026-07-15
+* Feature | Card title allows intentional line breaks via `<br>` (`wp_kses`)
+
 3.0.4 | 2026-07-03
 * Feature | Content ACF: optional **Suffix** text after the counter value (`counter_suffix` in `acf-json/group_601d960c252d1.json`)
 * Update | **Number** is optional — cards can show title, description, and suffix without an animated count (`public/partials/digifox-counter-display.php`)
