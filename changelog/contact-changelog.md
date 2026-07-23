@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.10 | 2026-07-21
+* Fix | Contact icon grid column count is calculated live on each page load (inline CSS), so 4 items spread correctly after a plugin update without re-saving Contact
+
 3.0.9 | 2026-07-21
 * Fix | Contact Intro (and other textareas) render Enter line breaks as real HTML `<br>`, not visible `&lt;br /&gt;` text
 * Fix | Contact Custom Style is printed inline on the front end so icon colour rules (e.g. `.digifox-icon-foreground`) reliably override the default white glyph colour
