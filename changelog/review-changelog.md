@@ -8,6 +8,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.5 | 2026-07-15
+* Feature | Review name, title, and company allow intentional line breaks via `<br>` (`wp_kses`)
+
 3.0.1.4 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
