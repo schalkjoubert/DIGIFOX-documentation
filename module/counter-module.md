@@ -7,7 +7,7 @@ taxonomy:
     category: module
     post_tag: module
 custom_fields:
-    module_version: 3.0.4
+    module_version: 3.0.5
     module_updated: "3 Jul 2026"
 
 ---
