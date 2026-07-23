@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+1.0.11 | 2026-07-23
+* Fix | Popup footer HTML no longer double-wrapped with `nl2br()`; WYSIWYG markup renders via `wp_kses_post` only (`public/partials/digifox-popup-display.php`)
+
 1.0.10 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
