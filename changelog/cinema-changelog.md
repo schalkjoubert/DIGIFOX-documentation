@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.5.8 | 2026-07-15
+* Feature | Card title and subtitle allow intentional line breaks via `<br>` (`wp_kses`)
+
 3.0.1.5.7 | 2026-06-12
 * Fix | YouTube auto posters: when maxresdefault is unavailable YouTube returns a tiny placeholder (not a 404), so posters now fall back to mqdefault on load if the image is narrower than 320px, as well as on error
 
