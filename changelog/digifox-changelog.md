@@ -7,6 +7,12 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.65 | 2026-07-23
+* Fix | Project modal CTAs no longer smooth-scroll to top; exclude `#project-modal-` from hash scroll, and keep lightbox `position: fixed` with Setup texture (`assets/js/script.js`, `assets/inc/style-dynamic.php`)
+
+3.0.4-beta.64 | 2026-07-22
+* Fix | Fade slider: slides stay absolutely stacked (no vertical gap); stronger fade CSS + track height sync (`assets/css/digifox-slider.css`, `assets/js/digifox-slider.js`)
+
 3.0.4-beta.63 | 2026-07-22
 * Fix | Digifox slider respects Fade vs Slide (`data-slider-effect`); fade stacks slides with opacity instead of `translateX` (`assets/js/digifox-slider.js`, `assets/css/digifox-slider.css`)
 
