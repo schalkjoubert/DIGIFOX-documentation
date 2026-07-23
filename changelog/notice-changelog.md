@@ -6,6 +6,9 @@ taxonomy:
     post_tag: changelog
 ---
 
+1.0.2 | 2026-07-23
+* Fix | Notice message HTML no longer double-wrapped with `nl2br()`; WYSIWYG markup renders via `wp_kses_post` only (`public/partials/digifox-notice-display.php`)
+
 1.0.1 | 2026-07-19
 * Update | Version bump to confirm client updates install from the GitHub release zip
 
