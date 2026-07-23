@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.6 | 2026-07-21
+* Fix | Desktop grid was hardcoded to 4 columns; restores **Columns** from Gallery Settings (`gallery_setting_grid_column`, default 5, max 6) like classic Digifox (`public/inc/style-dynamic.php`, `public/partials/digifox-gallery-display.php`)
+* Fix | Custom Style CSS field name corrected to `gallery_setting_css` (was wrongly `hero_setting_css`); still reads the old key as fallback
+
 3.0.1.5 | 2026-07-21
 * Fix | Gallery grid thumbs are equal 4:3 cells again (`aspect-ratio` + `object-fit: cover`) so mixed source ratios no longer create uneven row heights (`public/css/digifox-gallery-public.css`)
 
