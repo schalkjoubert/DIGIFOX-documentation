@@ -7,7 +7,13 @@ taxonomy:
     post_tag: changelog
 
 ---
-3.0.5.8 | 2026-06-14
+3.0.5.10 | 2026-07-15
+* Feature | Card title and subtitle allow intentional line breaks via `<br>` (`wp_kses`)
+
+3.0.5.9 | 2026-07-02
+* Update | Landscape card layout uses `grid-template-columns: 1fr 2fr` (`public/inc/style-dynamic.php`)
+
+3.0.5.8 | 2026-06-25
 * Fix | Slider autoplay, speed, and pagination settings use correct ACF field names (`product_setting_delay`, `product_setting_speed`, `product_setting_pagination`)
 
 3.0.5.6 | 2026-06-14
