@@ -4,8 +4,11 @@ taxonomy:
     category: changelog
     post_tag: changelog
 ---
+1.3.26 | 2026-07-27
+* Update | Project download filename pattern is now `project-01-file.pdf` (was `project-file-01.pdf`)
+
 1.3.25 | 2026-07-27
-* Feature | Project card download files from demo assets: `project-file-01.pdf` → card 1 `project_link_file` (sets link type to **file**)
+* Feature | Project card download files from demo assets: `project-01-file.pdf` → card 1 `project_link_file` (sets link type to **file**)
 
 1.3.24 | 2026-07-23
 * Add | Bread & Brew bakery demo (`demos/bread-and-brew.json`) — artisan sourdough + coffee shop; warm wheat / espresso palette
