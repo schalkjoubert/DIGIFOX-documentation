@@ -4,6 +4,9 @@ taxonomy:
     category: changelog
     post_tag: changelog
 ---
+1.3.28 | 2026-08-01
+* Update | Additional demo images in `demo-assets`
+
 1.3.27 | 2026-07-30
 * Add | Psychologist demo (`demos/psychologist.json`) — Dr Amara Naidoo; calm teal palette
 
