@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.11 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
 3.0.10 | 2026-07-21
 * Fix | Contact icon grid column count is calculated live on each page load (inline CSS), so 4 items spread correctly after a plugin update without re-saving Contact
 
