@@ -7,6 +7,12 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.11 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
+3.0.3.10 | 2026-07-26
+* Feature | Card HTML field (`service_html`) rendered after description in grid and slider — no newline formatting; output via `wp_kses_post` in `.service-html`
+
 3.0.3.9 | 2026-07-16
 * Fix | Custom Style module background: uses theme `digifox_scope_module_custom_css` so bare props / `{ … }` / `#id` apply to the module root
 
