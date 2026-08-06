@@ -7,6 +7,44 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.78 | 2026-08-01
+* Fix | Hide Button Style/Colour/Size until button text is entered
+
+3.0.4-beta.77 | 2026-08-01
+* Fix | Second CTA text field always visible (no longer hidden when Button 1 is empty) — Hero, Banner, Slideshow
+
+3.0.4-beta.76 | 2026-07-30
+* Update | Button field labels: **Button Style**, **Button Colour**, **Button Size**
+
+3.0.4-beta.75 | 2026-07-30
+* Fix | Restore ACF repeater **row** layout so labels stay left and fields stay right
+
+3.0.4-beta.74 | 2026-07-30
+* Update | Button Style/Colour/Size use standard left-label / right-field admin layout again
+
+3.0.4-beta.73 | 2026-07-30
+* Update | Admin button options use a **Button Style** label and align with the input column
+
+3.0.4-beta.72 | 2026-07-30
+* Fix | Button Style/Colour/Size sit on one admin row (repeater block layout + compact CSS)
+
+3.0.4-beta.71 | 2026-07-30
+* Feature | Compact button controls in admin: Style | Colour | Size on one row with dividers; remove helper descriptions
+* Fix | Inactive module links greyed out and disabled again in ACF Module Link radios ()
+
+3.0.4-beta.70 | 2026-07-30
+* Update | Setup button labels: **Button colour** + **Button alternative** with clearer fill/outline descriptions
+
+3.0.4-beta.69 | 2026-07-30
+* Fix | Default outline button hover matches Light/Dark: fill with brand colour, text uses hover colour (`assets/css/module-buttons.css`)
+
+3.0.4-beta.68 | 2026-07-30
+* Feature | Button system: Setup **Button colour** + **Button hover colour**; modules use Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small) via `digifox_module_button_class()` (`assets/functions/function-buttons.php`, `assets/css/module-buttons.css`, `assets/inc/style-dynamic.php`, ACF)
+
+3.0.4-beta.67 | 2026-07-28
+* Feature | Optional `assets/css/site-custom.css` loads when present (same pattern as `site-custom.js`)
+* Feature | Extra pages/posts/archives use module `.container` inset (`page.php`, `single.php`, `archive.php`, `index.php`) — beta.66
+
 3.0.4-beta.65 | 2026-07-23
 * Fix | Project modal CTAs no longer smooth-scroll to top; exclude `#project-modal-` from hash scroll, and keep lightbox `position: fixed` with Setup texture (`assets/js/script.js`, `assets/inc/style-dynamic.php`)
 
