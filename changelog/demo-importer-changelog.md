@@ -4,6 +4,10 @@ taxonomy:
     category: changelog
     post_tag: changelog
 ---
+1.3.29 | 2026-08-07
+* Feature | Demo list auto-discovers every readable `demos/*.json` (no hard-coded whitelist required)
+* Add | Wine Estate demo (`demos/wine-estate.json`)
+
 1.3.28 | 2026-08-01
 * Update | Additional demo images in `demo-assets`
 
