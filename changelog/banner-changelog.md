@@ -8,6 +8,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.0.7 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
 3.0.0.6 | 2026-07-22
 * Fix | Banner opacity overlay sits above Setup **Background Texture** (and below text/buttons): overlay moved off the background stack onto `.banner-overlay` (`public/partials/digifox-banner-display.php`)
 
