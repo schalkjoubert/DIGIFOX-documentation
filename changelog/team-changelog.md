@@ -7,6 +7,17 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.12 | 2026-08-12
+* Feature | **Card Width** (`team_setting_card_width`): leave empty for full width (100%); otherwise set max-width in px (replaces hard-coded 660px landscape / 300px portrait)
+* Feature | Display **member_tagline** below the description on Team cards
+* Update | Team cards use `h3` / `h4` for name and title (matches Titles / Subtitle fonts)
+
+3.0.11 | 2026-07-27
+* Fix | Only render `.social` / `.description` when they have content, so `margin-top` does not leave empty gaps
+
+3.0.10 | 2026-07-27
+* Update | Team name and title no longer force `font-weight: bold` (inherit from theme)
+
 3.0.9 | 2026-07-22
 * Fix | Slider equal-height also includes **name** and **title** (not only description/social), so two-line names/titles keep cards aligned (`public/partials/digifox-team-display.php`)
 
