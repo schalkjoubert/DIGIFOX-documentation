@@ -7,6 +7,10 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.79 | 2026-08-12
+* Feature | Setup fonts: **Sub Heading**, **Titles**, and **Subtitle** (in addition to Headings / Body); Titles/Subtitle also apply to Team card name/role
+* Fix | Digifox Plus **Shop Module** menu ordering (utility slug) so it is not treated as an inactive Digifox module
+
 3.0.4-beta.78 | 2026-08-01
 * Fix | Hide Button Style/Colour/Size until button text is entered
 
