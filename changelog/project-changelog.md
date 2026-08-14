@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.12 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
 3.0.11 | 2026-07-23
 * Fix | Project lightbox opens above header / notice / Setup texture: modals print in `wp_footer` (and relocate to `body`); z-index `100050`
 * Fix | Modal panel text is always black so Setup white body text stays readable on the white panel (`public/css/digifox-project-public.css`)
