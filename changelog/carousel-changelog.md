@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.4 | 2026-08-14
+* Fix | Custom Style scoping no longer fatals admin screens (raw carousel CSS on Product settings)
+
 3.0.3.3 | 2026-08-14
 * Fix | Custom Style `h2, h3` (and other nested selectors) stay inside `.module-carousel` and no longer restyle the next module
 
