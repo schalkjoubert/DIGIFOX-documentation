@@ -7,6 +7,9 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.80 | 2026-08-14
+* Update | **Card Max Width** is a number field (empty = 100%, otherwise px) on Product, Service, Project, and Counter — same pattern as Team
+
 3.0.4-beta.79 | 2026-08-12
 * Feature | Setup fonts: **Sub Heading**, **Titles**, and **Subtitle** (in addition to Headings / Body); Titles/Subtitle also apply to Team card name/role
 * Fix | Digifox Plus **Shop Module** menu ordering (utility slug) so it is not treated as an inactive Digifox module
