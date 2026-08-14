@@ -7,6 +7,12 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.15 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
+3.0.14 | 2026-07-23
+* Fix | Slide logos use the **full** upload (like Hero) instead of WordPress **medium** (~300px); size controlled with CSS `max-width: 340px` (`public/partials/digifox-slideshow-display.php`, `public/css/digifox-slideshow-public.css`)
+
 3.0.13 | 2026-07-22
 * Fix | Custom Style now scoped under `.module-slider` with `!important` (via `digifox_scope_module_custom_css`) so it can override Setup `.button` colours (`public/inc/style-dynamic.php`)
 
