@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.3 | 2026-08-14
+* Fix | Custom Style `h2, h3` (and other nested selectors) stay inside `.module-carousel` and no longer restyle the next module
+
 3.0.3.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
