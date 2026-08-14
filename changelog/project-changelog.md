@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.13 | 2026-08-14
+* Feature | **Card Max Width** (`project_setting_card_width`): leave empty for 100%; otherwise set max-width in px (replaces 300–600px slider / 660px landscape cap)
+
 3.0.12 | 2026-07-30
 * Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
 
