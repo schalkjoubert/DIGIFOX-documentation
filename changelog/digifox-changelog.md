@@ -7,6 +7,15 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+3.0.4-beta.83 | 2026-08-16
+* Feature | Contact header CTA Link Type: Module, Email, Website, WhatsApp, File (`acf-json/group_5e9825d07ca19.json`)
+
+3.0.4-beta.82 | 2026-08-14
+* Fix | Module Custom Style: do not double-prefix `.module-{slug}` selectors; keep `@media` / `@supports` blocks so desktop-only rules work in the module CSS field
+
+3.0.4-beta.81 | 2026-08-14
+* Fix | Module Custom Style comma selectors (`h2, h3`) are scoped to that module only, so Carousel colour no longer applies to Project headings
+
 3.0.4-beta.80 | 2026-08-14
 * Update | **Card Max Width** is a number field (empty = 100%, otherwise px) on Product, Service, Project, and Counter — same pattern as Team
 
