@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.14 | 2026-08-16
+* Fix | Landscape cards stack (portrait) below 768px; side-by-side image + text only from 768px up
+
 3.0.13 | 2026-08-14
 * Feature | **Card Max Width** (`project_setting_card_width`): leave empty for 100%; otherwise set max-width in px (replaces 300–600px slider / 660px landscape cap)
 
