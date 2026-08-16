@@ -7,6 +7,18 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5.14 | 2026-08-16
+* Fix | Cards with a max-width (e.g. 200px) centre in the column (`margin-left/right: auto`) so they are not stuck left on mobile
+
+3.0.5.13 | 2026-08-16
+* Fix | Landscape cards stack below 768px; side-by-side only from 768px up
+
+3.0.5.12 | 2026-08-14
+* Feature | **Card Max Width** (`product_setting_card_width`): leave empty for 100%; otherwise set max-width in px (replaces 300–600px slider / 660px landscape cap)
+
+3.0.5.11 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
 3.0.5.10 | 2026-07-15
 * Feature | Card title and subtitle allow intentional line breaks via `<br>` (`wp_kses`)
 
