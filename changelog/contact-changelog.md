@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.12 | 2026-08-16
+* Feature | Header CTA **Link Type** matches other modules: Module, Email, Website, WhatsApp, or File
+
 3.0.11 | 2026-07-30
 * Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
 
