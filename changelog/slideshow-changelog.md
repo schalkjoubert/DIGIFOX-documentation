@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.16 | 2026-08-16
+* Fix | Mobile 16:9 / 4:3 (especially Fade): slide grows to fit title, intro and buttons instead of clipping; type and buttons scale down (~80%)
+
 3.0.15 | 2026-07-30
 * Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
 
