@@ -9,6 +9,10 @@ taxonomy:
     post_tag: about
 
 ---
+3.0.0.6 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.0.2 | 2026-06-14
 * Update | Client updates install from trimmed GitHub release zip (excludes `.md`, `.github`, `_images`, `.gitignore`)
 
