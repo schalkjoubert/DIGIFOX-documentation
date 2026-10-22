@@ -71,7 +71,7 @@ Space between counter cards in pixels.
 Inner padding on card text areas.
 
 **Card Max Width**
-Maximum card width in portrait layout (300–600px).
+Leave empty for full width (100%). Enter a pixel value to cap card width.
 
 **Image Radius**
 Border radius on card images as a percentage. Set to -1 to use the global Setup image radius.
