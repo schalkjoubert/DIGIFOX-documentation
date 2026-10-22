@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.16 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.14 | 2026-08-16
 * Fix | Landscape cards stack (portrait) below 768px; side-by-side image + text only from 768px up
 
