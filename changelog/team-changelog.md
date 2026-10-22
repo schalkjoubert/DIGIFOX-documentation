@@ -7,6 +7,13 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.15 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
+3.0.13 | 2026-08-16
+* Fix | Landscape cards stack below 768px (was 480px)
+
 3.0.12 | 2026-08-12
 * Feature | **Card Width** (`team_setting_card_width`): leave empty for full width (100%); otherwise set max-width in px (replaces hard-coded 660px landscape / 300px portrait)
 * Feature | Display **member_tagline** below the description on Team cards
