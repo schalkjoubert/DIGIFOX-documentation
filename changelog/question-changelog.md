@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.0.6 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.0.4 | 2026-07-22
 * Fix | FAQ item borders use Digifox Setup **Border** colour (same as cards) instead of hardcoded `#ccc`; Border = No removes the outline (`public/css/digifox-question-public.css`, `public/inc/style-dynamic.php`)
 
