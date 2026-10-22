@@ -7,6 +7,13 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.12 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
+3.0.10 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
 3.0.9 | 2026-07-22
 * Fix | **Padding** applies to card text (`.item-txt`) like Service/Product, not the outer grid (`public/css/digifox-blog.css`, `public/partials/digifox-blog-display.php`)
 
