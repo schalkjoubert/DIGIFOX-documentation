@@ -7,6 +7,9 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.17 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+
 3.0.16 | 2026-08-16
 * Fix | Mobile 16:9 / 4:3 (especially Fade): slide grows to fit title, intro and buttons instead of clipping; type and buttons scale down (~80%)
 
