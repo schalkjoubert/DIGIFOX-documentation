@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.8 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.1.6 | 2026-07-21
 * Fix | Desktop grid was hardcoded to 4 columns; restores **Columns** from Gallery Settings (`gallery_setting_grid_column`, default 5, max 6) like classic Digifox (`public/inc/style-dynamic.php`, `public/partials/digifox-gallery-display.php`)
 * Fix | Custom Style CSS field name corrected to `gallery_setting_css` (was wrongly `hero_setting_css`); still reads the old key as fallback
