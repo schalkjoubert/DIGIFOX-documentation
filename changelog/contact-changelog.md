@@ -7,6 +7,11 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.15 | 2026-10-21
+* Update | Footer social icons are a quarter smaller
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.12 | 2026-08-16
 * Feature | Header CTA **Link Type** matches other modules: Module, Email, Website, WhatsApp, or File
 
