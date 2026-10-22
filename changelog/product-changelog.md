@@ -7,6 +7,11 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.5.17 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Update | Equal card heights apply to every product grid, including Digifox Plus shop rows
+* Feature | Eyebrow above the heading
+
 3.0.5.14 | 2026-08-16
 * Fix | Cards with a max-width (e.g. 200px) centre in the column (`margin-left/right: auto`) so they are not stuck left on mobile
 
