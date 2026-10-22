@@ -7,6 +7,16 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.9 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
+3.0.7 | 2026-08-16
+* Fix | Landscape cards stack below 768px; side-by-side only from 768px up
+
+3.0.6 | 2026-08-14
+* Feature | **Card Max Width** (`counter_setting_card_width`): leave empty for 100%; otherwise set max-width in px (replaces 300–600px slider / 660px landscape cap)
+
 3.0.5 | 2026-07-15
 * Feature | Card title allows intentional line breaks via `<br>` (`wp_kses`)
 
