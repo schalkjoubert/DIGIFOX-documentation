@@ -8,6 +8,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.7 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.1.5 | 2026-07-15
 * Feature | Review name, title, and company allow intentional line breaks via `<br>` (`wp_kses`)
 
