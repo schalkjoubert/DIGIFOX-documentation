@@ -7,6 +7,16 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.15 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
+3.0.3.13 | 2026-08-16
+* Fix | Landscape cards stack below 768px; side-by-side only from 768px up
+
+3.0.3.12 | 2026-08-14
+* Feature | **Card Max Width** (`service_setting_card_width`): leave empty for 100%; otherwise set max-width in px (replaces 300–600px slider / 660px landscape cap)
+
 3.0.3.11 | 2026-07-30
 * Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
 
