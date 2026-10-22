@@ -7,6 +7,31 @@ taxonomy:
     post_tag: theme-changelog
 
 ---
+
+3.0.4-beta.104 | 2026-10-21
+* Fix | Header logo shrinks in height as well as width when the menu leaves little room
+* Update | A light line separates the footer menu from the copyright line
+* Update | Footer menu is centered, and the footer logo is capped at 190px
+* Update | Module Menu is Header Menu, with Footer Menu directly under it
+* Update | Setup uses Yes or No for a Home link in the footer
+* Fix | Footer logo uses the full image so a wide logo is not cropped
+* Feature | Footer can show its own logo and a menu of active modules
+* Update | Setup can cap the header logo width so it stays put when the menu is short
+* Update | Quick view title uses the section heading style
+* Update | Single product title and short description use the heading and intro styles
+* Fix | Slider previous and next arrows sit apart under the slides
+* Update | Shop row subtitle uses the same font as a module intro
+* Update | Shop sits with the other modules when Digifox Plus is enabled. Product stays a separate module
+* Update | Product appearance settings stay on the Product screen. The Shop Module shows them in its own sidebar
+* Update | Product settings also appear on the Digifox Plus Shop Module screen
+* Update | Chapter Url accepts a full address or an on-page link such as #packages
+* Update | Notice Website Link accepts a full address or an on-page link such as /#contact
+* Update | Hero Image/s stays available when Background Video is selected; the first image is shown while the video loads
+* Feature | Setup colours for Eyebrow, Card Title and Card Subtitle
+* Feature | Eyebrow field above the Heading on each module, shown as a small label on the page
+* Feature | Package module is registered for navigation links, and package icons load Font Awesome when Package is active
+* Feature | Chapter module is registered for navigation links, and list icons load Font Awesome when Chapter is active
+
 3.0.4-beta.83 | 2026-08-16
 * Feature | Contact header CTA Link Type: Module, Email, Website, WhatsApp, File (`acf-json/group_5e9825d07ca19.json`)
 
