@@ -7,6 +7,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.3.6 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.3.4 | 2026-08-14
 * Fix | Custom Style scoping no longer fatals admin screens (raw carousel CSS on Product settings)
 
