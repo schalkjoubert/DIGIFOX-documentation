@@ -6,6 +6,10 @@ taxonomy:
     post_tag: changelog
 ---
 
+1.0.3 | 2026-10-20
+* Update | Website Link accepts a full address or an on-page link such as /#contact
+
+
 1.0.2 | 2026-07-23
 * Fix | Notice message HTML no longer double-wrapped with `nl2br()`; WYSIWYG markup renders via `wp_kses_post` only (`public/partials/digifox-notice-display.php`)
 
