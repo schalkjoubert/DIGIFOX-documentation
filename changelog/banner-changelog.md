@@ -8,6 +8,10 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.0.9 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Feature | Eyebrow above the heading
+
 3.0.0.7 | 2026-07-30
 * Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
 
