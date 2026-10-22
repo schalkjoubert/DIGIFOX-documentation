@@ -7,6 +7,14 @@ taxonomy:
     post_tag: changelog
 
 ---
+3.0.1.5.11 | 2026-10-21
+* Update | Section link still works when this module is listed in the footer only
+* Fix | Card title stays visible when a video is shown
+* Feature | Eyebrow above the heading
+
+3.0.1.5.9 | 2026-08-16
+* Fix | Landscape cards stack below 768px; side-by-side only from 768px up
+
 3.0.1.5.8 | 2026-07-15
 * Feature | Card title and subtitle allow intentional line breaks via `<br>` (`wp_kses`)
 
