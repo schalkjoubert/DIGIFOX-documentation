@@ -7,6 +7,13 @@ taxonomy:
     post_tag: changelog
 
 ---
+
+1.0.13 | 2026-10-20
+* Feature | Eyebrow above the heading
+
+1.0.12 | 2026-07-30
+* Feature | CTA buttons: Colour (Default/Light/Dark) × Style (Fill/Outline) × Size (Large/Small)
+
 1.0.11 | 2026-07-23
 * Fix | Popup footer HTML no longer double-wrapped with `nl2br()`; WYSIWYG markup renders via `wp_kses_post` only (`public/partials/digifox-popup-display.php`)
 
