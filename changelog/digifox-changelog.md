@@ -8,7 +8,7 @@ taxonomy:
 
 ---
 
-3.0.4-beta.104 | 2026-10-21
+3.0.5 | 2026-10-23
 * Update | Chapter row buttons have Style, Colour, and Size, matching Services
 * Fix | Header logo shrinks in height as well as width when the menu leaves little room
 * Update | A light line separates the footer menu from the copyright line
