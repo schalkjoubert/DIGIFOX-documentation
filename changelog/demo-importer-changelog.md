@@ -4,6 +4,10 @@ taxonomy:
     category: changelog
     post_tag: changelog
 ---
+1.3.30 | 2026-10-21
+* Feature | Future demos include Package and Chapter. package-01.jpg fills package cards and chapter-01.jpg fills chapter rows
+* Feature | setup-footer.png fills the footer logo, and hero-logo.mp4 fills the hero background video
+
 1.3.29 | 2026-08-07
 * Feature | Demo list auto-discovers every readable `demos/*.json` (no hard-coded whitelist required)
 * Add | Wine Estate demo (`demos/wine-estate.json`)
