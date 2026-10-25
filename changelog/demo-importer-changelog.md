@@ -4,6 +4,10 @@ taxonomy:
     category: changelog
     post_tag: changelog
 ---
+1.3.33 | 2026-10-25
+* Feature | WooCommerce products travel with a demo (`_products`, `_product_categories`). Images are `shop-01.jpg`, `shop-02.jpg`, and so on. Shop rows store category slugs and are matched to the new categories on load. Nothing is created when WooCommerce is inactive.
+* Update | Skateboarding demo includes the 15 J-One Stunts shop products
+
 1.3.32 | 2026-10-25
 * Update | Skateboarding demo: Numbers counter, and the logo carousel (7 across, speed 1300, delay 1400)
 
