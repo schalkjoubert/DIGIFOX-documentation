@@ -4,6 +4,13 @@ taxonomy:
     category: changelog
     post_tag: changelog
 ---
+1.3.32 | 2026-10-25
+* Update | Skateboarding demo: Numbers counter, and the logo carousel (7 across, speed 1300, delay 1400)
+
+1.3.31 | 2026-10-25
+* Add | Skateboarding demo (`demos/skateboarding.json`) — J-One Stunts; ramps and kickers from reclaimed wood
+* Add | Demo images in `demo-assets/skateboarding` (logos, hero, gallery, projects, reviews, products, carousel)
+
 1.3.30 | 2026-10-21
 * Feature | Future demos include Package and Chapter. package-01.jpg fills package cards and chapter-01.jpg fills chapter rows
 * Feature | setup-footer.png fills the footer logo, and hero-logo.mp4 fills the hero background video
